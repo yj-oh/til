@@ -11,6 +11,7 @@
 #### JavaScript
 * [정적 스코프와 동적 스코프](javascript/[20200627]_정적스코프와_동적스코프.md)
 * [전역 스코프와 블록 스코프](javascript/[20200628]_전역스코프와_블록스코프.md)
+* [선언과 할당, undefined와 ReferenceError](javascript/[20200630]_선언과_할당_undefined와_ReferenceError.md)
 
 #### Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
