@@ -17,6 +17,7 @@
 
 #### TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
+* [개발환경 구축](typescript/[20200703]_개발환경_구축.md)
 
 #### Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
