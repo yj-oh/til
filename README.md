@@ -15,6 +15,9 @@
 * [hoisting](javascript/[20200701]_hoisting.md)
 * [var, let, const](javascript/[20200702]_let_and_const.md)
 
+#### TypeScript
+* [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
+
 #### Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
 
