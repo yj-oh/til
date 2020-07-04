@@ -7,6 +7,7 @@
 
 #### 👉 Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
+* [상속](java/[20200704]_상속.md)
 
 #### 👉 JavaScript
 * [정적 스코프와 동적 스코프](javascript/[20200627]_정적스코프와_동적스코프.md)
