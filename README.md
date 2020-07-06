@@ -17,6 +17,9 @@
 * [hoisting](javascript/[20200701]_hoisting.md)
 * [var, let, const](javascript/[20200702]_let_and_const.md)
 
+#### 👉 ORM
+* [ORM 정의, 장단점](orm/[20200706]_ORM_정의_장단점.md)
+
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
 * [개발환경 구축](typescript/[20200703]_개발환경_구축.md)
