@@ -19,6 +19,7 @@
 
 #### 👉 ORM
 * [ORM 정의, 장단점](orm/[20200706]_ORM_정의_장단점.md)
+* [JPA vs Hibernate vs Spring Data JPA](orm/[20200707]_JPA_vs_Hibernate_vs_Spring_Data_JPA.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
