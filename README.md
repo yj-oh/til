@@ -20,12 +20,12 @@
 #### 👉 ORM
 * [ORM 정의, 장단점](orm/[20200706]_ORM_정의_장단점.md)
 
+#### 👉 Spring
+* [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
+
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
 * [개발환경 구축](typescript/[20200703]_개발환경_구축.md)
-
-#### 👉 Spring
-* [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
 
 #### 👉 Vue
 * [webpack](vue/[20200626]_webpack.md)
