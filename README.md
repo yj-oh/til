@@ -5,6 +5,9 @@
 
 #### Categories
 
+#### 👉 Git
+* [Commit history | Author, Committer 변경](git/[20200714]_author_committer_변경.md)
+
 #### 👉 Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
 * [상속](java/[20200704]_상속.md)
