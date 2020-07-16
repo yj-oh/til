@@ -14,7 +14,7 @@ optional parameters | X | O
 파일 확장자 | .js | .ts
  
 ## 장점
-- JS는 interpreted language로 런타임에만 오류 포, TypeScript는 개발하는 동안 컴파일 단계에서 오류 포착
+- JS는 interpreted language로 런타임에만 오류 포착, TypeScript는 개발하는 동안 컴파일 단계에서 오류 포착
 - IDE를 포함한 다양한 도구 지원
 - 객체지향 프로그래밍 지원
 - Node.js 또는 ECMAScript 3 이상을 지원하는 모든 브라우저에서 실행 가능
