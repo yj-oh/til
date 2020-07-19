@@ -37,6 +37,7 @@
 * [Constructor Injection with Lombok](spring/[20200715]_constructor_injection_with_Lombok.md)
 * [스프링 IoC 컨테이너](spring/[20200716]_IoC_컨테이너.md)
 * [gradle에서 compile, api vs implementation](spring/[20200718]_compile_and_api_vs_implementation.md)
+* [싱글톤 객체](spring/[20200719]_싱글톤_객체.md)
 
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
