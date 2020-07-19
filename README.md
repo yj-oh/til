@@ -48,3 +48,4 @@
 
 #### 👉 ETC
 * [RESTful API Design Best practices | 단수와 복수](etc/[20200713]_restful_api_design_plural_or_singular.md)
+* [AWS EC2에 jdk 설치](etc/[20200720]_AWS_EC2에_jdk_설치.md)
