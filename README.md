@@ -52,3 +52,4 @@
 * [AWS EC2에 jdk 설치](etc/[20200720]_AWS_EC2에_jdk_설치.md)
 * [IntelliJ error | Cannot create class. Unable to parse template "Class"](etc/[20200722]_intellij_error_cannot_create_class.md)
 * [Keycloak이란](etc/[20200723]_keycloak이란.md)
+* ⭐️ [Linux 명령어](etc/[20200724]_Linux_명령어.md)
