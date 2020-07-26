@@ -33,6 +33,7 @@
 
 #### 👉 Python
 * [Python 3 설치, Hello world!](python/[20200725]_install_python3.md)
+* [Python 문법 특징](python/[20200726]_python_문법_특징.md)
 
 #### 👉 React
 * [React 개요](react/[20200712]_React_개요.md)
