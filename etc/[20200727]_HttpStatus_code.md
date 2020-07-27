@@ -28,3 +28,5 @@
 --- | --- | ---
 500 | Internal Server Error | 
 502 | Bad Gateway |
+
+##### * Reference : https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
