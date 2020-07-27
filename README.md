@@ -60,3 +60,4 @@
 * [IntelliJ error | Cannot create class. Unable to parse template "Class"](etc/[20200722]_intellij_error_cannot_create_class.md)
 * [Keycloak이란](etc/[20200723]_keycloak이란.md)
 * 📌️ [Linux 명령어](etc/[20200724]_Linux_명령어.md)
+* [HttpStatus code 정리](etc/[20200727]_HttpStatus_code.md)
