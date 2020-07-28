@@ -46,6 +46,7 @@
 * [gradle에서 compile, api vs implementation](spring/[20200718]_compile_and_api_vs_implementation.md)
 * [싱글톤 객체](spring/[20200719]_싱글톤_객체.md)
 * [Recommended project structure](spring/[20200721]_recommended_project_structure.md)
+* [@Valid](spring/[20200728]_@Valid.md)
 
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
