@@ -63,3 +63,4 @@
 * [Keycloak이란](etc/[20200723]_keycloak이란.md)
 * 📌️ [Linux 명령어](etc/[20200724]_Linux_명령어.md)
 * [HttpStatus code 정리](etc/[20200727]_HttpStatus_code.md)
+* [Parameter vs Argument](etc/[20200730]_parameter_vs_argument.md)
