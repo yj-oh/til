@@ -20,6 +20,7 @@
 * [Collections framework](java/[20200709]_collections_framework.md)
 * [How to compile and run a Java program using terminal](java/[20200710]_How_to_compile_and_run_a_Java_program.md)
 * [Vector](java/[20200711]_Vector.md)
+* [Exception Tutorial](java/[20200731]_exception_tutorial.md)
 
 #### 👉 JavaScript
 * [정적 스코프와 동적 스코프](javascript/[20200627]_정적스코프와_동적스코프.md)
