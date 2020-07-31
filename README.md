@@ -65,3 +65,4 @@
 * 📌️ [Linux 명령어](etc/[20200724]_Linux_명령어.md)
 * [HttpStatus code 정리](etc/[20200727]_HttpStatus_code.md)
 * [Parameter vs Argument](etc/[20200730]_parameter_vs_argument.md)
+* [npm 설치 목록 보기](etc/[20200801]_npm_설치_목록_보기.md)
