@@ -14,6 +14,7 @@
 * [코드뭉치 스테이지에 올리기, 버리기](git/[20200717]_코드뭉치_스테이지에_올리기_버리기.md)
 * [Commit 되돌리기 | reset, revert](git/[20200729]_commit_되돌리기.md)
 * 📌️ [Git 명령어](git/[20200802]_git_명령어.md)
+* [나만의 commit message conventions](git/[20200804]_나만의_commit_message_conventions.md)
 
 #### 👉 Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
