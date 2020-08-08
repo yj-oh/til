@@ -55,6 +55,7 @@
 * [싱글톤 객체](spring/[20200719]_싱글톤_객체.md)
 * [Recommended project structure](spring/[20200721]_recommended_project_structure.md)
 * [@Valid](spring/[20200728]_@Valid.md)
+* [JPA logging](spring/[20200808]_jpa_logging.md)
 
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
