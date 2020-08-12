@@ -57,6 +57,7 @@
 * [@Valid](spring/[20200728]_@Valid.md)
 * [JPA logging](spring/[20200808]_jpa_logging.md)
 * [Controller에서 parameter받기](spring/[20200809]_controller에서_parameter_받기.md)
+* [MessageSource](spring/[20200812]_messagesource.md)
 
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
