@@ -16,6 +16,7 @@
 * 📌️ [Git 명령어](git/[20200802]_git_명령어.md)
 * [나만의 commit message conventions](git/[20200804]_나만의_commit_message_conventions.md)
 * [branch 이름 변경](git/[20200813]_branch_rename.md)
+* [git 명령어 단축어 지정](git/[20200814]_git_명령어_단축어.md)
 
 #### 👉 Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
