@@ -9,6 +9,8 @@
 * [Linux 명령어](etc/[20200724]_Linux_명령어.md)
 * [Git 명령어](git/[20200802]_git_명령어.md)
 
+#### 👉 Database
+* [MySQL Procedure](database/[20200816]_mysql_procedure.md)
 #### 👉 Git
 * [Commit history | Author, Committer 변경](git/[20200714]_author_committer_변경.md)
 * [코드뭉치 스테이지에 올리기, 버리기](git/[20200717]_코드뭉치_스테이지에_올리기_버리기.md)
