@@ -21,6 +21,7 @@
 * [git 명령어 단축어 지정](git/[20200814]_git_명령어_단축어.md)
 
 #### 👉 HTML/CSS
+* [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
 * [favicon](html_css/[20200817]_favicon.md)
 
 #### 👉 Java
@@ -83,6 +84,5 @@
 * [HttpStatus code 정리](etc/[20200727]_HttpStatus_code.md)
 * [Parameter vs Argument](etc/[20200730]_parameter_vs_argument.md)
 * [npm 설치 목록 보기](etc/[20200801]_npm_설치_목록_보기.md)
-* [Custom reset CSS](etc/[20200803]_custom_reset_css.md)
 * [Kill process running on port {port number} in MacOS](etc/[20200810]_Kill_process_running_on_port_in_macos.md)
 * [npm vs yarn](etc/[20200811]_npm_vs_yarn.md)
