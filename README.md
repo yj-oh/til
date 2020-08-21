@@ -25,6 +25,7 @@
 * [favicon](html_css/[20200817]_favicon.md)
 * [viewport](html_css/[20200818]_viewport.md)
 * [웹폰트](html_css/[20200819]_web_font.md)
+* [fontawesome](html_css/[20200821]_fontawesome.md)
 
 #### 👉 Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
