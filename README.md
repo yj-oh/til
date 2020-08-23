@@ -72,6 +72,7 @@
 * [Controller에서 parameter받기](spring/[20200809]_controller에서_parameter_받기.md)
 * [MessageSource](spring/[20200812]_messagesource.md)
 * [패키지명은 왜 com.xxx.xxx일까?](spring/[20200820]_패키지명은_왜_com.md)
+* [무분별한 setter 지양](spring/[20200824]_무분별한_setter_지양.md)
 
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
