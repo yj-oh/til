@@ -12,6 +12,7 @@
 #### 👉 Database
 * [MySQL Procedure](database/[20200816]_mysql_procedure.md)
 * [MySQL emoji 저장](database/[20200825]_mysql_emoji_저장.md)
+* [MySQL 유저, 권한](database/[20200902]_mysql_user.md)
 #### 👉 Git
 * [Commit history | Author, Committer 변경](git/[20200714]_author_committer_변경.md)
 * [코드뭉치 스테이지에 올리기, 버리기](git/[20200717]_코드뭉치_스테이지에_올리기_버리기.md)
