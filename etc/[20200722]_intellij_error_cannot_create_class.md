@@ -17,7 +17,7 @@ not java file type 'Files supported via TextMate bundles'
 
 ### 해결
 - `Preferences`(단축키 `⌘,`) → Editor → File Types \
-![Preferences](.[20200722]_intellij_error_cannot_create_class_images/[20200722]_01.png)
+![Preferences](.%5B20200722%5D_intellij_error_cannot_create_class_images/%5B20200722%5D_01.png)
 - 우측 하단 `Registered Patterns`에 `SecurityProperties.java` 추가하고 apply
 - 다시 제거하고 apply
 - IntelliJ 재실행 하니 됨.
