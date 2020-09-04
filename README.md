@@ -65,6 +65,7 @@
 * [WebStorm Live Template 설정](react/[20200831]_webstorm_live_template.md)
 * [WebStorm Debugging](react/[20200901]_webstorm_debugging.md)
 * [설치할 크롬 확장 프로그램](react/[20200903]_설치할_크롬_확장_프로그램.md)
+* [Route exact path (그리고 Switch)](react/[20200904]_route_exact_path.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
