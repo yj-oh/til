@@ -67,6 +67,7 @@
 * [설치할 크롬 확장 프로그램](react/[20200903]_설치할_크롬_확장_프로그램.md)
 * [Route exact path (그리고 Switch)](react/[20200904]_route_exact_path.md)
 * [JSX](react/[20200905]_jsx.md)
+* [Lifecycle - mount, update, unmount](react/[20200906]_lifecycle.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
