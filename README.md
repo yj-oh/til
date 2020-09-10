@@ -72,6 +72,7 @@
 * [Lifecycle - mount, update, unmount](react/[20200906]_lifecycle.md)
 * [styled-components](react/[20200907]_styled_components.md)
 * [public 폴더의 이미지 사용](react/[20200909]_public_이미지_경로.md)
+* [Redux 기초](react/[20200910]_redux_기초.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
