@@ -56,6 +56,7 @@
 * [JPA vs Hibernate vs Spring Data JPA](orm/[20200707]_JPA_vs_Hibernate_vs_Spring_Data_JPA.md)
 * [entity](orm/[20200805]_entity.md)
 * [entity class에는 setter 메소드를 만들지 않는다](orm/[20200806]_entity_setter.md)
+* [Querydsl 표현식](orm/[20200912]_querydsl_expressions.md)
 
 #### 👉 Python
 * [Python 3 설치, Hello world!](python/[20200725]_install_python3.md)
