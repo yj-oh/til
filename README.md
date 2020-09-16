@@ -45,6 +45,7 @@
 * [가변인자](java/[20200815]_가변인자.md)
 * [변수명 앞에 _(underscore)](java/[20200913]_변수명_앞에_underscore.md)
 * [숫자 리터럴에 _(underscore)](java/[20200914]_underscores_in_numeric_literals.md)
+* [Optional class](java/[20200916]_optional_class.md)
 
 #### 👉 JavaScript
 * [정적 스코프와 동적 스코프](javascript/[20200627]_정적스코프와_동적스코프.md)
