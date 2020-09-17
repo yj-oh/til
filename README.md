@@ -47,6 +47,7 @@
 * [숫자 리터럴에 _(underscore)](java/[20200914]_underscores_in_numeric_literals.md)
 * [Optional class](java/[20200916]_optional_class.md)
 * [import vs static import](java/[20200917]_import_and_static_import.md)
+* [javadoc](java/[20200918]_javadoc.md)
 
 #### 👉 JavaScript
 * [정적 스코프와 동적 스코프](javascript/[20200627]_정적스코프와_동적스코프.md)
