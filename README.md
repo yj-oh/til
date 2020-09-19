@@ -119,3 +119,4 @@
 * [npm 설치 목록 보기](etc/[20200801]_npm_설치_목록_보기.md)
 * [Kill process running on port {port number} in MacOS](etc/[20200810]_Kill_process_running_on_port_in_macos.md)
 * [npm vs yarn](etc/[20200811]_npm_vs_yarn.md)
+* [PUT vs PATCH](etc/[20200919]_put_vs_patch.md)
