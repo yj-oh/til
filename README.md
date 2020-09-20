@@ -14,6 +14,7 @@
 * [MySQL emoji 저장](database/[20200825]_mysql_emoji_저장.md)
 * [MySQL 유저, 권한](database/[20200902]_mysql_user.md)
 * [MySQL 문자열 치환](database/[20200908]_mysql_문자열_치환.md)
+* [PK 조건](database/[20200921]_pk_조건.md)
 
 #### 👉 Git
 * [Commit history | Author, Committer 변경](git/[20200714]_author_committer_변경.md)
