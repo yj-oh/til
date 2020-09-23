@@ -102,6 +102,7 @@
 * [Maven vs Gradle](spring/[20200826]_maven_vs_gradle.md)
 * [Spring Boot Starter](spring/[20200827]_자주_쓰는_spring_boot_starter.md)
 * [YAML](spring/[20200828]_yaml.md)
+* [스프링 구동할 때 콘솔에 출력되는 배너 변경하기](spring/[20200923]_banner_변경.md)
 
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
