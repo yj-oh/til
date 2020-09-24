@@ -68,6 +68,7 @@
 * [Querydsl 표현식](orm/[20200912]_querydsl_expressions.md)
 * [Querydsl Projection](orm/[20200915]_querydsl_projection.md)
 * [@GeneratedValue](orm/[20200920]_generatedvalue.md)
+* [Column mapping](orm/[20200925]_column_mapping.md)
 
 #### 👉 Python
 * [Python 3 설치, Hello world!](python/[20200725]_install_python3.md)
