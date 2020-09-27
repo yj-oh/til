@@ -57,6 +57,7 @@
 * [hoisting](javascript/[20200701]_hoisting.md)
 * [var, let, const](javascript/[20200702]_let_and_const.md)
 * [함수 표현식](javascript/[20200927]_함수_표현식.md)
+* [화살표 표기법](javascript/[20200928]_arrow_notation.md)
 
 #### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
