@@ -129,3 +129,4 @@
 * [npm vs yarn](etc/[20200811]_npm_vs_yarn.md)
 * [PUT vs PATCH](etc/[20200919]_put_vs_patch.md)
 * [Keycloak - create user 권한 설정](etc/[20200926]_keycloak_create_user_권한.md)
+* _[AWS 도메인 연결](etc/[]_aws_도메인_연결.md)_ ⚠ 작업 중
