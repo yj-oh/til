@@ -25,6 +25,7 @@
 * [branch 이름 변경](git/[20200813]_branch_rename.md)
 * [git 명령어 단축어 지정](git/[20200814]_git_명령어_단축어.md)
 * [Workflow](git/[20200830]_workflow.md)
+* [Commit options](git/[20201001]_commit_options.md)
 
 #### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
