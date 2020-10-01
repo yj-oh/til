@@ -93,6 +93,7 @@
 * [Redux 기초](react/[20200910]_redux_기초.md)
 * [Quill editor](react/[20200911]_quill_editor.md)
 * [quill-delta-to-html](react/[20200922]_quill_delta_to_html.md)
+* [Middleware](react/[20201002]_middleware.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
