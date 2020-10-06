@@ -139,3 +139,4 @@
 * [PUT vs PATCH](etc/[20200919]_put_vs_patch.md)
 * [Keycloak - create user 권한 설정](etc/[20200926]_keycloak_create_user_권한.md)
 * _[AWS 도메인 연결](etc/[]_aws_도메인_연결.md)_ ⚠ 작업 중
+* [Http response status code - 400 vs 403](etc/[20201006]_httpstatus_code_400_403.md)
