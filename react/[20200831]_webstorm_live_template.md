@@ -9,6 +9,24 @@
 - Abbreviation, Description, Template text 입력
 - 변수는 `$변수명$`과 같은 형태로 작성
 
+```javascript
+// 이미지 속 코드
+import React from 'react';
+import styled from 'styled-components';
+
+const $fileName$Block = styled.div``;
+
+const $fileName$ = () => {
+    return (
+    	<$fileName$Block>
+
+    	</$fileName$Block>
+    );
+};
+
+export default $fileName$;
+```
+
 ## Live template variables
 - 라이브 템플릿 변수에 함수를 사용할 수 있다.
 - [참고] https://www.jetbrains.com/help/webstorm/template-variables.html
