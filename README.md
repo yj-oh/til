@@ -119,6 +119,7 @@
 * [YAML](spring/[20200828]_yaml.md)
 * [스프링 구동할 때 콘솔에 출력되는 배너 변경하기](spring/[20200923]_banner_변경.md)
 * [session 저장소로 DB 사용하기](spring/[20201009]_session_저장소로_db_사용.md)
+* [Spring Boot - Swagger 3](spring/[20201011]_swagger3.md)
 
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
