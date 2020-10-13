@@ -76,6 +76,7 @@
 * [Querydsl Projection](orm/[20200915]_querydsl_projection.md)
 * [@GeneratedValue](orm/[20200920]_generatedvalue.md)
 * [Column mapping](orm/[20200925]_column_mapping.md)
+* [Querydsl case문](orm/[20201013]_querydsl_case_when.md)
 
 #### 👉 Python
 * [Python 3 설치, Hello world!](python/[20200725]_install_python3.md)
