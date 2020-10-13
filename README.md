@@ -122,6 +122,7 @@
 * [session 저장소로 DB 사용하기](spring/[20201009]_session_저장소로_db_사용.md)
 * [Spring Boot - Swagger 3](spring/[20201011]_swagger3.md)
 * [H2 Database](spring/[20201012]_h2_database.md)
+* [Spring Boot - Querydsl 설정](spring/[20201014]_querydsl_setting.md)
 
 #### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
