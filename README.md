@@ -75,6 +75,7 @@
 * [Querydsl 표현식](orm/[20200912]_querydsl_expressions.md)
 * [Querydsl Projection](orm/[20200915]_querydsl_projection.md)
 * [@GeneratedValue](orm/[20200920]_generatedvalue.md)
+* [@GeneratedValue - auto_increment 문제](orm/[20201015]_generatedvalue_auto_increment.md)
 * [Column mapping](orm/[20200925]_column_mapping.md)
 * [Querydsl case문](orm/[20201013]_querydsl_case_when.md)
 
