@@ -44,3 +44,8 @@ public class Book {
    - 초기 개발 시 유용
 
 ##### * Reference : ⌜자바 ORM 표준 JPA 프로그래밍⌟ - 김영한 저
+
+### 👉 2020.10.15 추가
+- MySQL + AUTO 전략을 선택하면 hibernate가 `TABLE` 전략을 사용하는 이슈가 있었다.
+   - Spring Boot 2.0 + hibernate 5
+- 자세한 내용은 다음 참고 : [@GeneratedValue - auto_increment 문제](orm/[20201015]_generatedvalue_auto_increment.md)
