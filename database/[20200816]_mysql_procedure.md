@@ -38,7 +38,7 @@ DROP PROCEDURE {프로시저명};
 - 더미 데이터 99개 insert하는 프로시저
 ```mysql
 DELIMITER $$
-CREATE PROCEDURE loop_insert_data
+CREATE PROCEDURE loop_insert_data()
 BEGIN
     DECLARE id_data INT DEFAULT 1;
     DECLARE date_data DATETIME DEFAULT '2020-01-01 00:00:00';
