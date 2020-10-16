@@ -63,6 +63,7 @@
 * [iterator](javascript/[20200929]_iterator.md)
 * [generator](javascript/[20200930]_generator.md)
 * [querySelector](javascript/[20201007]_queryselector.md)
+* [Convert milliseconds to date](javascript/[20201016]_milliseconds_to_date.md)
 
 #### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
