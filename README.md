@@ -79,6 +79,7 @@
 * [@GeneratedValue - auto_increment 문제](orm/[20201015]_generatedvalue_auto_increment.md)
 * [Column mapping](orm/[20200925]_column_mapping.md)
 * [Querydsl case문](orm/[20201013]_querydsl_case_when.md)
+* [Querydsl BooleanBuilder, BooleanExpression](orm/[20201017]_querydsl_booleanbuilder_booleanexpression.md)
 
 #### 👉 Python
 * [Python 3 설치, Hello world!](python/[20200725]_install_python3.md)
