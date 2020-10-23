@@ -157,3 +157,4 @@
 * [Http response status code - 400 vs 403](etc/[20201006]_httpstatus_code_400_403.md)
 * [Slack - GitHub 연동 설정](etc/[20201010]_slack_github.md)
 * [package-lock.json](etc/[20201023]_package_lock_json.md)
+* [npm install --save 옵션](etc/[20201024]_package_install_save.md)
