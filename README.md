@@ -111,6 +111,7 @@
 * [Fragments(<>)](react/[20201022]_react_fragments.md)
 * [JSX 대소문자](react/[20201025]_jsx_대소문자.md)
 * [JSX select 특정값 선택](react/[20201026]_selected_option.md)
+* [컴포넌트에 내부 컴포넌트 전달 (with props)](react/[20201028]_컴포넌트에_내부컴포넌트_전달.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
