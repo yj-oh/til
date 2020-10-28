@@ -67,6 +67,7 @@
 * [Convert milliseconds to date](javascript/[20201016]_milliseconds_to_date.md)
 * [for, forEach, for ...of](javascript/[20201019]_for_for_each_for_of.md)
 * [부모, 자식, 형제 노드 찾기](javascript/[20201027]_부모_자식_형제_노드.md)
+* [Array 원소 삭제 - splice()](javascript/[20201029]_array_원소_삭제.md)
 
 #### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
