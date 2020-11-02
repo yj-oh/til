@@ -70,6 +70,7 @@
 * [Array 원소 삭제 - splice()](javascript/[20201029]_array_원소_삭제.md)
 * [data attributes](javascript/[20201031]_data_attributes.md)
 * [Optional chaining (?.)](javascript/[20201101]_optional_chaining.md)
+* [Convert date to milliseconds](javascript/[20201102]_convert_date_to_milliseconds.md)
 
 #### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
