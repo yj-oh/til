@@ -118,6 +118,7 @@
 * [컴포넌트에 내부 컴포넌트 전달 (with props)](react/[20201028]_컴포넌트에_내부컴포넌트_전달.md)
 * [useEffect](react/[20201030]_useeffect.md)
 * [axios baseURL](react/[20201103]_axios_baseurl.md)
+* [코드 스타일 통일을 위한 Prettier](react/[20201104]_prettier.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
