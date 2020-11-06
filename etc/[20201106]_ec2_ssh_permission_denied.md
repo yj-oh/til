@@ -14,10 +14,17 @@ Permission denied (publickey).
 ```
 
 #### 해결
+- 아마존 지침
+```
+Your key file must not be publicly viewable for SSH to work. 
+Use this command if needed: chmod 400 mykey.pem
+(SSH가 동작하려면 키 파일을 공개적으로 볼 수 없어야 함.)
+```
 ```
 chmod 400 file.pem
 ```
 
+### ※
 ### 👉 `chmod`
 - 파일 또는 디렉토리 권한 변경
 
