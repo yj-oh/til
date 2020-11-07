@@ -120,6 +120,7 @@
 * [axios baseURL](react/[20201103]_axios_baseurl.md)
 * [코드 스타일 통일을 위한 Prettier](react/[20201104]_prettier.md)
 * [API Key 숨기기](react/[20201105]_hide_api_key.md)
+* [중복 submit 방지](react/[20201107]_중복_submit_방지.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
