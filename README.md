@@ -27,6 +27,7 @@
 * [Workflow](git/[20200830]_workflow.md)
 * [Commit options](git/[20201001]_commit_options.md)
 * [GitHub CLI](git/[20201005]_github_cli.md)
+* [git checkout -b <new_branch> \[\<start point\>\]](git/[20201109]_connot_lock_ref.md)
 
 #### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
