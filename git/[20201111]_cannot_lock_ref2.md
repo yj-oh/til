@@ -100,7 +100,7 @@ echo "181fe5ed30a2bd0c5ecc33df530f3efc95daa188" > .git/refs/heads/master
 ![](.%5B20201111%5D_cannot_lock_ref2/c99650fc.png)
 - 내용이 `af31...`에서 `181f...`로 수정되었다.
 - `git log master`를 확인하면?
-- `master`가 page2 커밋으로 이동했다.
+- `master`가 page2 커밋으로 이동했다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/acc1a4a0.png)
 
 ### .git/refs/heads/master가 가지고 있는 SHA-1 값이 포인터 역할을 하고 있다는 걸 알 수 있다.
@@ -122,15 +122,15 @@ git update-ref refs/heads/master 9006
 - 이 상태에서 `git branch master2` 명령어를 실행하면 
 - git이 내부적으로 `git update-ref refs/heads/master2 9006` 명령어를 실행한다는 말이다.
 - 진짜 그런지 확인해보자.
-- 우선 `git branch master2`를 실행한다.
+- 우선 `git branch master2`를 실행한다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/b59364ba.png)
 - `master2` 파일이 새로 생성되었다.
-- 내부를 살펴보면 `9006...` 값이 들어있을 것이다.
+- 내부를 살펴보면 `9006...` 값이 들어있을 것이다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/f1f48c23.png)
 - 빙고
 - 로그를 찍어보자.\
 ![](.%5B20201111%5D_cannot_lock_ref2/bf2514fe.png)
-- 이 상태에서 `master2`가 추가되었을 것이다.
+- 이 상태에서 `master2`가 추가되었을 것이다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/dd9c73e7.png)
 - 빙고
 - 다시 초기화했다.
@@ -149,11 +149,11 @@ git update-ref refs/heads/new af31
 git checkout new
 ```
 - 가 실행될 것이다.
-- .git/refs/heads 아래에 새롭게 new 파일 생성되고, 내부에는 `af31...` 값이 저장되어 있을 것이다.
+- .git/refs/heads 아래에 새롭게 new 파일 생성되고, 내부에는 `af31...` 값이 저장되어 있을 것이다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/2ee82c02.png)
 - ㄴ `new` 브랜치가 생성되었다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/da9f4eb7.png)
-- ㄴ .git/refs/heads 아래에 새롭게 new 파일 생성되었다.
+- ㄴ .git/refs/heads 아래에 새롭게 new 파일 생성되었다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/3f9576f7.png)
 - ㄴ new 파일 내부에 `af31...` 값이 저장되었다.
 - 빙고
@@ -172,7 +172,7 @@ git checkout new
 ![](.%5B20201111%5D_cannot_lock_ref2/fa9d3d20.png)
 - ㄴ `6e4e` 커밋을 베이스로 삼은 `new` 브랜치가 생성되었다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/e9b3ff4f.png)
-- ㄴ .git/refs/heads 아래에 새롭게 new 파일 생성되었다.
+- ㄴ .git/refs/heads 아래에 새롭게 new 파일 생성되었다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/4632095b.png)
 - ㄴ new 파일 내부에 `6e4e...` 값이 저장되었다.
 - 빙고
@@ -211,13 +211,13 @@ cannot create 'refs/heads/apple/dev'
 - ㄴ 일반적인 경우라면 위와 같은 error가 뜨면서 아무런 변화가 일어나지 않는다.
 - 근데 변화가 일어났다. 새 파일이 생겼다. 왜?
 - 다시 초기화 상태에서 1번 명령어를 실행하고 모든 상태와 파일 내부의 값을 확인했지만 바뀌는 것이 없었다.
-### 그렇다면 열쇠는 2번 명령어인 `git checkout apple/dev`에 달려있다.
+# ⭐️ 그렇다면 열쇠는 2번 명령어 `git checkout apple/dev`에 달려있다.
 - 위 명령어를 실행하면
 - `git checkout -b apple/dev origin/apple/dev` 명령어를 실행했을 때와 같은 에러를 만날 수 있다.
 ![](.%5B20201111%5D_cannot_lock_ref2/e5b071f8.png)
 ![](.%5B20201111%5D_cannot_lock_ref2/3cd3b3ee.png)
 - 새 파일도 똑같이 생기고.
 - `git checkout apple/dev`를 실행시켰을 때 .git 파일에서 변경되는 파일은 `index` 밖에 없다.
-- 그리고 `index` 파일을 실행시키려고 하면 아래와 같은 경고창이 뜬다.
+- 그리고 `index` 파일을 실행시키려고 하면 아래와 같은 경고창이 뜬다. \
 ![](.%5B20201111%5D_cannot_lock_ref2/65ef313b.png)
 - 다음 시간에는 `index`를 파헤쳐보겠다.
