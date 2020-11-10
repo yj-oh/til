@@ -4,7 +4,7 @@
 * 함께 보기 : [코드 스타일 통일을 위한 Prettier]([20201104]_prettier.md)
 * Reference : https://prettier.io/docs/en/options.html
 
-```json
+```text
 {
   "arrowParens": "always",              // 화살표 함수 괄호 <always | avoid>
   "bracketSpacing": true,               // 대괄호 사이의 공백 <bool>
