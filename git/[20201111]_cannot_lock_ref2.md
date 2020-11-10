@@ -1,3 +1,4 @@
+## 💁‍♀️ 이전 편 : [git checkout -b <new_branch> \[\<start point\>\]]([20201109]_connot_lock_ref.md)
 # test repository 
 - 모든 테스트는 `yj-oh/test`에 있는 코드로 실시한다.
 - clone을 떴다. 
