@@ -29,6 +29,7 @@
 * [GitHub CLI](git/[20201005]_github_cli.md)
 * [git checkout -b <new_branch> \[\<start point\>\]](git/[20201109]_connot_lock_ref.md)
 * [refs](git/[20201111]_cannot_lock_ref2.md)
+* [Merge 기초](git/[20201112]_merging.md)
 
 #### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
