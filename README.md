@@ -127,6 +127,7 @@
 * [API Key 숨기기](react/[20201105]_hide_api_key.md)
 * [중복 submit 방지](react/[20201107]_중복_submit_방지.md)
 * [Prettier options](react/[20201110]_prettier_options.md)
+* [babel](react/[20201114]_babel.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
