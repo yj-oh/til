@@ -129,6 +129,7 @@
 * [Prettier options](react/[20201110]_prettier_options.md)
 * [babel](react/[20201114]_babel.md)
 * [Redux 기초2](react/[20201115]_redux.md)
+* [action](react/[20201116]_action.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
