@@ -1,7 +1,7 @@
 # Route exact path
 ## exact
 - 경로가 정확히 일치하는지 여부
-```javascript
+```jsx
 <Route component={MainPage}  path="/" />
 <Route component={LoginPage} path="/login" />
 <Route component={ListPage}  path="/list" />
@@ -10,7 +10,7 @@
 - 위와 같을 때, 어떤 path로 접근하든 MainPage를 함께 탄다.
 - 다른 path에도 `/`가 포함되어 있기 때문이다.
 
-```javascript
+```jsx
 <Route component={MainPage}  path="/" exact />
 <Route component={LoginPage} path="/login" />
 <Route component={ListPage}  path="/list" />
@@ -27,7 +27,7 @@ yarn add react-router-dom
 ```
 
 ### index.js
-```javascript
+```jsx
 import React from 'react';
 import './index.css';
 import App from './App';
@@ -46,7 +46,7 @@ serviceWorker.unregister();
 ```
 
 ### App.js
-```javascript
+```jsx
 import React from 'react';
 import { Route } from 'react-router-dom';
 import MainPage from './pages/MainPage';
@@ -71,7 +71,7 @@ export default App;
 
 ### Switch를 활용하자
 ### App.js
-```javascript
+```jsx
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import MainPage from './pages/MainPage';
