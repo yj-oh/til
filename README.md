@@ -43,6 +43,7 @@
 * [cdn](html_css/[20200822]_cdn.md)
 * [\<label>](html_css/[20201020]_label_tag.md)
 * [CSS 형제 선택자 (~, +)](html_css/[20201124]_css_형제_선택자.md)
+* [CSS에서 변수 사용하기](html_css/[20201125]_css_변수.md)
 
 #### 👉 Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
