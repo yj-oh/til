@@ -129,7 +129,7 @@
 * [컴포넌트에 내부 컴포넌트 전달 (with props)](react/[20201028]_컴포넌트에_내부컴포넌트_전달.md)
 * [useEffect](react/[20201030]_useeffect.md)
 * [axios baseURL](react/[20201103]_axios_baseurl.md)
-* [코드 스타일 통일을 위한 Prettier](react/[20201104]_prettier.md)
+* [코드 스타일 통일을 위한 Prettier - IntelliJ 설정](react/[20201104]_prettier_intellij_설정.md)
 * [API Key 숨기기](react/[20201105]_hide_api_key.md)
 * [중복 submit 방지](react/[20201107]_중복_submit_방지.md)
 * [Prettier options](react/[20201110]_prettier_options.md)
