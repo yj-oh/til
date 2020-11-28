@@ -82,6 +82,7 @@
 * [Optional chaining (?.)](javascript/[20201101]_optional_chaining.md)
 * [Convert date to milliseconds](javascript/[20201102]_convert_date_to_milliseconds.md)
 * [undefined vs null](javascript/[20201108]_undefined_null.md)
+* [image 업로드 전 미리보기](javascript/[20201128]_preview_image.md)
 
 #### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
