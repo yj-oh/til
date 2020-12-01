@@ -1,4 +1,4 @@
-# useMemo, useCallback 제대로 사용하기
+# useMemo, useCallback 제대로 사용하기(and 성능 최적화)
 ##### 📖 읽기 : https://kentcdodds.com/blog/usememo-and-usecallback
 
 ## 링크 요약

@@ -144,7 +144,7 @@
 * [chat](react/[20201123]_chat.md)
 * [key](react/[20201129]_key.md)
 * [eslint-plugin-react-hooks](react/[20201130]_eslint_plugin_react_hooks.md)
-* [useMemo, useCallback 제대로 사용하기](react/[20201201]_usememo_usecallback_제대로_사용하기.md)
+* [useMemo, useCallback 제대로 사용하기(and 성능 최적화)](react/[20201201]_usememo_usecallback_제대로_사용하기.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
