@@ -88,6 +88,7 @@
 * [image 업로드 전 미리보기](javascript/[20201128]_preview_image.md)
 * [isNaN()](javascript/[20201204]_isnan.md)
 * [Nullish coalescing operator](javascript/[20201209]_nullish_coalescing_operator.md)
+* [Parameter defaults](javascript/[20201210]_parameter defaults.md)
 
 #### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
