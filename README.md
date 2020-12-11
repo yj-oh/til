@@ -34,6 +34,7 @@
 * [Merge 종류](git/[20201119]_merge_종류.md)
 * [grep 대소문자 구분 없이 검색](git/[20201120]_grep_대소문자.md)
 * [Repository에 License 정보 추가하기](git/[20201127]_adding_a_license.md)
+* [rebase 설명하기](git/[20201211]_rebase_설명하기.md)
 
 #### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
