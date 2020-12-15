@@ -36,6 +36,7 @@
 * [Repository에 License 정보 추가하기](git/[20201127]_adding_a_license.md)
 * [rebase 설명하기](git/[20201211]_rebase_설명하기.md)
 * [사용하고 있는 git 단축어 모음](git/[20201214]_사용하고_있는_git_단축어_모음.md)
+* [remote url 변경](git/[20201215]_remote_url_변경.md)
 
 #### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
