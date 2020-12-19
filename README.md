@@ -165,6 +165,7 @@
 #### 👉 React-native
 * [시작하기](react-native/[20201218]_시작하기.md)
 * [onPress()와 Pressable](react-native/[20201219]_onpress.md)
+* [iOS notch 옆 공간(?) 커스터마이징](react-native/[20201220]_ios_safeareaview.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
