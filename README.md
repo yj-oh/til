@@ -164,6 +164,7 @@
 
 #### 👉 React-native
 * [시작하기](react-native/[20201218]_시작하기.md)
+* [onPress()와 Pressable](react-native/[20201219]_onpress.md)
 
 #### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
