@@ -95,6 +95,7 @@
 * [array methods 총 정리 1](javascript/[20201216]_array_methods.md)
 * [array methods 총 정리 2](javascript/[20201217]_array_methods2.md)
 * [비밀번호 정규식](javascript/[20201221]_비밀번호_정규식.md)
+* [string to boolean](javascript/[20201222]_string_to_boolean.md)
 
 #### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
