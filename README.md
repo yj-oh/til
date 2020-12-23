@@ -117,6 +117,7 @@
 #### 👉 Python
 * [Python 3 설치, Hello world!](python/[20200725]_install_python3.md)
 * [Python 문법 특징](python/[20200726]_python_문법_특징.md)
+* [python 명령 실행 시 버전 3 실행되게 설정하기](python/[20201223]_python_명령_실행시_버전_3.md)
 
 #### 👉 React
 * [React 개요](react/[20200712]_React_개요.md)
