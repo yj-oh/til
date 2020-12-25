@@ -120,6 +120,7 @@
 * [python 명령 실행 시 버전 3 실행되게 설정하기](python/[20201223]_python_명령_실행시_버전_3.md)
 * [`PyCharm`으로 프로젝트 생성](python/[20201224]_파이참으로_프로젝트_생성.md)
 * [KoNLPy 설치 for macOS (+ class 비교)](python/[20201225]_install_konlpy.md)
+* [증감연산자?](python/[20201226]_증감연산자.md)
 
 #### 👉 React
 * [React 개요](react/[20200712]_React_개요.md)
