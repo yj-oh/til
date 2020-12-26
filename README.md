@@ -121,6 +121,7 @@
 * [`PyCharm`으로 프로젝트 생성](python/[20201224]_파이참으로_프로젝트_생성.md)
 * [KoNLPy 설치 for macOS (+ class 비교)](python/[20201225]_install_konlpy.md)
 * [증감연산자?](python/[20201226]_증감연산자.md)
+* [한글 키워드 분석(불용어 제거)](python/[20201227]_한글_키워드분석_불용어_제거.md)
 
 #### 👉 React
 * [React 개요](react/[20200712]_React_개요.md)
