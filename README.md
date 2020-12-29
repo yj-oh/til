@@ -92,7 +92,7 @@
 * [image 업로드 전 미리보기](javascript/[20201128]_preview_image.md)
 * [isNaN()](javascript/[20201204]_isnan.md)
 * [Nullish coalescing operator](javascript/[20201209]_nullish_coalescing_operator.md)
-* [Parameter defaults](javascript/[20201210]_parameter defaults.md)
+* [Parameter defaults](javascript/[20201210]_parameter_defaults.md)
 * [array methods 총 정리 1](javascript/[20201216]_array_methods.md)
 * [array methods 총 정리 2](javascript/[20201217]_array_methods2.md)
 * [비밀번호 정규식](javascript/[20201221]_비밀번호_정규식.md)
