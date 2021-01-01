@@ -245,3 +245,4 @@
 * [EC2 instance SSH 접속 - Permission denied error](etc/[20201106]_ec2_ssh_permission_denied.md)
 * [GitHub markdown - HTML Tags](etc/[20201230]_github_markdown_html.md)
 * [markdown 목차](etc/[20210101]_markdown_목차.md)
+* [코딩 시간 통계 보기 - WakaTime](etc/[20210102]_wakatime.md)
