@@ -3,7 +3,23 @@
 >- 2020.06.25(목) ~
 >- 사소한 것이라도 매일 기록하는 습관 들이기
 
-#### Categories
+### Categories
+- [📌 자주 열람](#📌-자주-열람)
+- [Database](#👉-Database)
+- [Git](#👉-Git)
+- [HTML/CSS](#👉-HTML/CSS)
+- [Java](#👉-java)
+- [JavaScript](#👉-JavaScript)
+- [Node.js](#👉-Node.js)
+- [ORM](#👉-ORM)
+- [Python](#👉-Python)
+- [React](#👉-React)
+- [React-native](#👉-React-native)
+- [Spring](#👉-Spring)
+- [Vue](#👉-Vue)
+- [ETC](#👉-ETC)
+
+---
 
 #### 📌 자주 열람
 * [Linux 명령어](etc/[20200724]_Linux_명령어.md)
