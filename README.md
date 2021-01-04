@@ -4,20 +4,19 @@
 >- 사소한 것이라도 매일 기록하는 습관 들이기
 
 ### Categories
-- [📌 자주 열람](#📌-자주-열람)
-- [Database](#👉-Database)
-- [Git](#👉-Git)
-- [HTML/CSS](#👉-HTML/CSS)
-- [Java](#👉-java)
-- [JavaScript](#👉-JavaScript)
-- [Node.js](#👉-Node.js)
-- [ORM](#👉-ORM)
-- [Python](#👉-Python)
-- [React](#👉-React)
-- [React-native](#👉-React-native)
-- [Spring](#👉-Spring)
-- [Vue](#👉-Vue)
-- [ETC](#👉-ETC)
+- [Database](#-Database)
+- [Git](#-Git)
+- [HTML/CSS](#-HTML/CSS)
+- [Java](#-java)
+- [JavaScript](#-JavaScript)
+- [Node.js](#-Node.js)
+- [ORM](#-ORM)
+- [Python](#-Python)
+- [React](#-React)
+- [React-native](#-React-native)
+- [Spring](#-Spring)
+- [Vue](#-Vue)
+- [ETC](#-ETC)
 
 ---
 
