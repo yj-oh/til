@@ -20,18 +20,18 @@
 
 ---
 
-#### 📌 자주 열람
+### 📌 자주 열람
 * [Linux 명령어](etc/[20200724]_Linux_명령어.md)
 * [Git 명령어](git/[20200802]_git_명령어.md)
 
-#### 👉 Database
+### 👉 Database
 * [MySQL Procedure](database/[20200816]_mysql_procedure.md)
 * [MySQL emoji 저장](database/[20200825]_mysql_emoji_저장.md)
 * [MySQL 유저, 권한](database/[20200902]_mysql_user.md)
 * [MySQL 문자열 치환](database/[20200908]_mysql_문자열_치환.md)
 * [PK 조건](database/[20200921]_pk_조건.md)
 
-#### 👉 Git
+### 👉 Git
 * [Commit history | Author, Committer 변경](git/[20200714]_author_committer_변경.md)
 * [코드뭉치 스테이지에 올리기, 버리기](git/[20200717]_코드뭉치_스테이지에_올리기_버리기.md)
 * [Commit 되돌리기 | reset, revert](git/[20200729]_commit_되돌리기.md)
@@ -53,7 +53,7 @@
 * [사용하고 있는 git 단축어 모음](git/[20201214]_사용하고_있는_git_단축어_모음.md)
 * [remote url 변경](git/[20201215]_remote_url_변경.md)
 
-#### 👉 HTML/CSS
+### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
 * [favicon](html_css/[20200817]_favicon.md)
 * [viewport](html_css/[20200818]_viewport.md)
@@ -68,7 +68,7 @@
 * [CSS 단위(em, rem)](html_css/[20201207]_css_단위_em_rem.md)
 * [\<dl>\<dt>\<dd>](html_css/[20201231]_dl_dt_dd.md)
 
-#### 👉 Java
+### 👉 Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
 * [상속](java/[20200704]_상속.md)
 * [다형성](java/[20200705]_다형성.md)
@@ -86,7 +86,7 @@
 * [Sort List Objects with stream.sorted()](java/[20201122]_sort_list_objects_with_stream_sorted.md)
 * [📚 클린코드 - 주석](java/[20201229]_클린코드_주석.md)
 
-#### 👉 JavaScript
+### 👉 JavaScript
 * [정적 스코프와 동적 스코프](javascript/[20200627]_정적스코프와_동적스코프.md)
 * [전역 스코프와 블록 스코프](javascript/[20200628]_전역스코프와_블록스코프.md)
 * [선언과 할당, undefined와 ReferenceError](javascript/[20200630]_선언과_할당_undefined와_ReferenceError.md)
@@ -115,11 +115,11 @@
 * [string to boolean](javascript/[20201222]_string_to_boolean.md)
 * [쉼표 연산자](javascript/[20210103]_쉼표_연산자.md)
 
-#### 👉 Node.js
+### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
 * [error "The engine "node" is incompatible with this module."](node/[20201126]_the_engine_node_is_incompatible.md)
 
-#### 👉 ORM
+### 👉 ORM
 * [ORM 정의, 장단점](orm/[20200706]_ORM_정의_장단점.md)
 * [JPA vs Hibernate vs Spring Data JPA](orm/[20200707]_JPA_vs_Hibernate_vs_Spring_Data_JPA.md)
 * [entity](orm/[20200805]_entity.md)
@@ -132,7 +132,7 @@
 * [Querydsl case문](orm/[20201013]_querydsl_case_when.md)
 * [Querydsl BooleanBuilder, BooleanExpression](orm/[20201017]_querydsl_booleanbuilder_booleanexpression.md)
 
-#### 👉 Python
+### 👉 Python
 * [Python 3 설치, Hello world!](python/[20200725]_install_python3.md)
 * [Python 문법 특징](python/[20200726]_python_문법_특징.md)
 * [python 명령 실행 시 버전 3 실행되게 설정하기](python/[20201223]_python_명령_실행시_버전_3.md)
@@ -141,7 +141,7 @@
 * [증감연산자?](python/[20201226]_증감연산자.md)
 * [한글 키워드 분석(불용어 제거)](python/[20201227]_한글_키워드분석_불용어_제거.md)
 
-#### 👉 React
+### 👉 React
 * [React 개요](react/[20200712]_React_개요.md)
 * [프로젝트 생성](react/[20200829]_프로젝트_생성.md)
 * [WebStorm Live Template 설정](react/[20200831]_webstorm_live_template.md)
@@ -187,13 +187,13 @@
 * [\<option selected> 대신 \<select defaultValue>](react/[20201212]_option_selected_대신_select_defaultvalue.md)
 * [Create React App 환경변수](react/[20201213]_create-react-app_환경변수.md)
 
-#### 👉 React-native
+### 👉 React-native
 * [시작하기](react-native/[20201218]_시작하기.md)
 * [onPress()와 Pressable](react-native/[20201219]_onpress.md)
 * [iOS notch 옆 공간(?) 커스터마이징](react-native/[20201220]_ios_safeareaview.md)
 * [Android app - Firebase 연결](react-native/[20201228]_android_app_and_firebase.md)
 
-#### 👉 Spring
+### 👉 Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
 * [groupId and artifactId](spring/[20200708]_groupId_and_artifactId.md)
 * [Constructor Injection with Lombok](spring/[20200715]_constructor_injection_with_Lombok.md)
@@ -216,15 +216,15 @@
 * [H2 Database](spring/[20201012]_h2_database.md)
 * [Spring Boot - Querydsl 설정](spring/[20201014]_querydsl_setting.md)
 
-#### 👉 TypeScript
+### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
 * [개발환경 구축](typescript/[20200703]_개발환경_구축.md)
 
-#### 👉 Vue
+### 👉 Vue
 * [webpack](vue/[20200626]_webpack.md)
 * [Lifecycle](vue/[20200823]_lifecycle.md)
 
-#### 👉 ETC
+### 👉 ETC
 * [RESTful API Design Best practices | 단수와 복수](etc/[20200713]_restful_api_design_plural_or_singular.md)
 * [AWS EC2에 jdk 설치](etc/[20200720]_AWS_EC2에_jdk_설치.md)
 * [IntelliJ error | Cannot create class. Unable to parse template "Class"](etc/[20200722]_intellij_error_cannot_create_class.md)
