@@ -250,3 +250,4 @@
 * [markdown 목차](etc/[20210101]_markdown_목차.md)
 * [코딩 시간 통계 보기 - WakaTime](etc/[20210102]_wakatime.md)
 * [markdown 접기/펼치기](etc/[20210104]_markdown_접기_펼치기.md)
+* [yarn-check](etc/[20210108]_yarn-check.md)
