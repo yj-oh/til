@@ -116,6 +116,7 @@
 * [쉼표 연산자](javascript/[20210103]_쉼표_연산자.md)
 * [cursor 위치에 문자열 삽입](javascript/[20210106]_cursor_위치에_문자열_삽입.md)
 * [sort()](javascript/[20210109]_sort.md)
+* [Spread syntax (...)](javascript/[20210110]_spread_syntax.md)
 
 ### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
