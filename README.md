@@ -30,6 +30,7 @@
 * [MySQL 유저, 권한](database/[20200902]_mysql_user.md)
 * [MySQL 문자열 치환](database/[20200908]_mysql_문자열_치환.md)
 * [PK 조건](database/[20200921]_pk_조건.md)
+* [MySQL uuid](database/[20210111]_mysql_uuid.md)
 
 ### 👉 Git
 * [Commit history | Author, Committer 변경](git/[20200714]_author_committer_변경.md)
