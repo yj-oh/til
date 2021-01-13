@@ -24,6 +24,9 @@
 * [Linux 명령어](etc/[20200724]_Linux_명령어.md)
 * [Git 명령어](git/[20200802]_git_명령어.md)
 
+### 👉 Algorithm
+* [`JS` 최대공약수, 최소공배수 구하기](algorithm/[20210113]_js_최대공약수_최소공배수.md)
+
 ### 👉 Database
 * [MySQL Procedure](database/[20200816]_mysql_procedure.md)
 * [MySQL emoji 저장](database/[20200825]_mysql_emoji_저장.md)
