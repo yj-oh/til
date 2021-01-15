@@ -196,6 +196,7 @@
 * [Create React App 환경변수](react/[20201213]_create-react-app_환경변수.md)
 * [state 내부 배열 요소 추가/삭제하기](react/[20210105]_state_배열_추가_삭제.md)
 * [Custom Hooks](react/[20210107]_custom_hooks.md)
+* [http method DELETE에 body 담아보내기](react/[20210115]_delete에_body_담아보내기.md)
 
 ### 👉 React-native
 * [시작하기](react-native/[20201218]_시작하기.md)
