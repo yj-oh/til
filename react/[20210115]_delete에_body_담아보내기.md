@@ -59,3 +59,4 @@ Axios.interceptors.request.use(
 ```
 - `axios.interceptors`는 요청 전 혹은 응답 후 가로채서 처리를 할 수 있게 해준다.
 - `config.data`가 세팅되지 않고 있었음. 세팅함.
+* **참고 : [axios.interceptors]([20210116]_axios_interceptors.md)**
