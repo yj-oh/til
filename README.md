@@ -236,6 +236,9 @@
 * [webpack](vue/[20200626]_webpack.md)
 * [Lifecycle](vue/[20200823]_lifecycle.md)
 
+### 👉 Way of working
+* [일정 관리 - 구글 스프레드 시트 이용](way_of_working/[20210117]_구글_스프레드시트로_일정관리.md)
+
 ### 👉 ETC
 * [RESTful API Design Best practices | 단수와 복수](etc/[20200713]_restful_api_design_plural_or_singular.md)
 * [AWS EC2에 jdk 설치](etc/[20200720]_AWS_EC2에_jdk_설치.md)
