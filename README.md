@@ -233,6 +233,7 @@
 ### 👉 TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
 * [개발환경 구축](typescript/[20200703]_개발환경_구축.md)
+* [react JavaScript 웹을 TypeScript로 바꿔보기](typescript/[20210119]_migrating_javascript_to_typescript.md)
 
 ### 👉 Vue
 * [webpack](vue/[20200626]_webpack.md)
