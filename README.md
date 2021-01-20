@@ -17,6 +17,7 @@
 - [Spring](#-Spring)
 - [Vue](#-Vue)
 - [Way of working](#-way-of-working)
+- [Journal](#-journal)
 - [ETC](#-ETC)
 
 ---
@@ -242,6 +243,9 @@
 
 ### 👉 Way of working
 * [일정 관리 - 구글 스프레드 시트 이용](way_of_working/[20210117]_구글_스프레드시트로_일정관리.md)
+
+### 👉 Journal
+* [가계부 프로젝트 01 - 프로젝트 구상](journal/[20210121]_moneybook01.md)
 
 ### 👉 ETC
 * [RESTful API Design Best practices | 단수와 복수](etc/[20200713]_restful_api_design_plural_or_singular.md)
