@@ -247,6 +247,7 @@
 ### 👉 Journal
 * [가계부 프로젝트 01 - 프로젝트 구상](journal/[20210121]_moneybook01.md)
 * [가계부 프로젝트 02 - 요구사항 정의](journal/[20210122]_moneybook02.md)
+* [가계부 프로젝트 03 - DB 설계](journal/[20210123]_moneybook03.md)
 
 ### 👉 ETC
 * [RESTful API Design Best practices | 단수와 복수](etc/[20200713]_restful_api_design_plural_or_singular.md)
