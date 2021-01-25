@@ -59,6 +59,7 @@
 * [사용하고 있는 git 단축어 모음](git/[20201214]_사용하고_있는_git_단축어_모음.md)
 * [remote url 변경](git/[20201215]_remote_url_변경.md)
 * [복구하기 - reflog](git/[20210124]_reflog.md)
+* [remote pull request 가져오기](git/[20210125]_pr_가져오기.md)
 
 ### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
