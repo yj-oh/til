@@ -277,3 +277,4 @@
 * [markdown 접기/펼치기](etc/[20210104]_markdown_접기_펼치기.md)
 * [yarn-check](etc/[20210108]_yarn-check.md)
 * [postman 변수 사용하기](etc/[20210114]_postman_전역변수.md)
+* [Jetbrains IDE에 TODO 주석 외 다른 유형 추가](etc/[20210126]_주석_유형_추가.md)
