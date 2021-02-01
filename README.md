@@ -61,6 +61,7 @@
 * [복구하기 - reflog](git/[20210124]_reflog.md)
 * [remote pull request 가져오기](git/[20210125]_pr_가져오기.md)
 * [git stash 뜯어보기](git/[20210129]_stash.md)
+* [커밋 순서 바꾸기](git/[20210201]_커밋_순서바꾸기.md)
 
 ### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
