@@ -63,6 +63,7 @@
 * [git stash 뜯어보기](git/[20210129]_stash.md)
 * [커밋 순서 바꾸기](git/[20210201]_커밋_순서바꾸기.md)
 * [다른 브랜치의 파일 비교](git/[20210202]_다른_브랜치의_파일_비교.md)
+* [remote branch 가져오기](git/[20210203]_pull_remote_branch.md)
 
 ### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
