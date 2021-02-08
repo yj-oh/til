@@ -67,6 +67,7 @@
 * [remote branch 가져오기](git/[20210203]_pull_remote_branch.md)
 * [reset 옵션](git/[20210205]_reset_options.md)
 * [clean](git/[20210206]_clean.md)
+* [repository 옮기기](git/[20210208]_repository_옮기기.md)
 
 ### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
