@@ -216,6 +216,7 @@
 * [axios.interceptors](react/[20210116]_axios_interceptors.md)
 * [Line 그래프 그리기 using react-chartjs-2](react/[20210127]_line_graph_using_react-chartjs-2.md)
 * [useEffect vs useLayoutEffect](react/[20210130]_uselayouteffect.md)
+* [useEffect deps에 조건 넣기](react/[20210210]_useeffect_deps.md)
 
 ### 👉 React-native
 * [시작하기](react-native/[20201218]_시작하기.md)
