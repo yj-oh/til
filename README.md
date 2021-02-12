@@ -69,6 +69,7 @@
 * [clean](git/[20210206]_clean.md)
 * [repository 옮기기](git/[20210208]_repository_옮기기.md)
 * [stash 참조 간편하게 - stash@{n} 말고](git/[20210211]_stash_참조_간편하게.md)
+* [What changed](git/[20210212]_what_changed.md)
 
 ### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
