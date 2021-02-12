@@ -296,3 +296,4 @@
 * [postman 변수 사용하기](etc/[20210114]_postman_전역변수.md)
 * [Jetbrains IDE에 TODO 주석 외 다른 유형 추가](etc/[20210126]_주석_유형_추가.md)
 * 📌️ [vim 명령어](etc/[20210207]_vim_명령어.md)
+* [RGB](etc/[20210213]_rgb.md)
