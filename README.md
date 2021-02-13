@@ -261,6 +261,7 @@
 
 ### 👉 Way of working
 * [일정 관리 - 구글 스프레드 시트 이용](way_of_working/[20210117]_구글_스프레드시트로_일정관리.md)
+* [Software spec이란(feat.프로젝트에 대한 단상)](way_of_working/[20210214]_software_spec.md)
 
 ### 👉 Journal
 * [가계부 프로젝트 Prologue](journal/[20210121]_moneybook00.md)
