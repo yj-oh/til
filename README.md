@@ -89,6 +89,7 @@
 * [CSS 이미지 컨테이너에 사이즈 맞추기](html_css/[20210128]_css_이미지_컨테이너에_사이즈_맞추기.md)
 * [CSS 말줄임표](html_css/[20210216]_css_말줄임표.md)
 * [HTML boilerplate](html_css/[20210219]_html_boilerplate.md)
+* [nth-child vs nth-of-type](html_css/[20210220]_nth_child_vs_nth_of_type.md)
 
 ### 👉 Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
