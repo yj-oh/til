@@ -225,6 +225,7 @@
 * [Declare default props in functional component](react/[20210215]_declare_default_props.md)
 * [Role-based access control](react/[20210217]_role_based_access_control.md)
 * [Deploying a react app using FileZilla](react/[20210218]_deploying_a_react_app_using_filezilla.md)
+* [배포하며 겪었던 문제 - POST 405 (Method Not Allowed)](react/[20210223]_post_405_method_not_allowed.md)
 
 ### 👉 React-native
 * [시작하기](react-native/[20201218]_시작하기.md)
