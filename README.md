@@ -26,6 +26,7 @@
 * [Linux 명령어](etc/[20200724]_Linux_명령어.md)
 * [Git 명령어](git/[20200802]_git_명령어.md)
 * [vim 명령어](etc/[20210207]_vim_명령어.md)
+* [array methods 총 정리 2](javascript/[20201217]_array_methods2.md)
 
 ### 👉 Algorithm
 * [`JS` 최대공약수, 최소공배수 구하기](algorithm/[20210113]_js_최대공약수_최소공배수.md)
@@ -133,7 +134,7 @@
 * [Nullish coalescing operator](javascript/[20201209]_nullish_coalescing_operator.md)
 * [Parameter defaults](javascript/[20201210]_parameter_defaults.md)
 * [array methods 총 정리 1](javascript/[20201216]_array_methods.md)
-* [array methods 총 정리 2](javascript/[20201217]_array_methods2.md)
+* 📌 [array methods 총 정리 2](javascript/[20201217]_array_methods2.md)
 * [비밀번호 정규식](javascript/[20201221]_비밀번호_정규식.md)
 * [string to boolean](javascript/[20201222]_string_to_boolean.md)
 * [쉼표 연산자](javascript/[20210103]_쉼표_연산자.md)
