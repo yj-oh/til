@@ -161,6 +161,7 @@
 * [Column mapping](orm/[20200925]_column_mapping.md)
 * [Querydsl case문](orm/[20201013]_querydsl_case_when.md)
 * [Querydsl BooleanBuilder, BooleanExpression](orm/[20201017]_querydsl_booleanbuilder_booleanexpression.md)
+* [LocalDate default value](orm/[20210225]_localdate_default_value.md)
 
 ### 👉 Python
 * [Python 3 설치, Hello world!](python/[20200725]_install_python3.md)
