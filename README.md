@@ -313,3 +313,4 @@
 * 📌️ [vim 명령어](etc/[20210207]_vim_명령어.md)
 * [RGB](etc/[20210213]_rgb.md)
 * [CORS에 대한 이해](etc/[20210221]_cors.md)
+* [Mac 메뉴바에 BitBar Github-contribution plugin 설치하기 (feat.1일1커밋)](etc/[20210301]_bitbar.md)
