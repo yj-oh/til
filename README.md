@@ -146,6 +146,7 @@
 * [Comparison Table](javascript/[20210131]_comparison_table.md)
 * [? vs ??](javascript/[20210228]_nullish coalescing operator_vs_question_mark.md)
 * [Math Methods](javascript/[20210302]_math_methods.md)
+* [삼항연산자 우선순위](javascript/[20210306]_삼항연산자_우선순위.md)
 
 ### 👉 Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
