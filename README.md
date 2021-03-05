@@ -317,3 +317,4 @@
 * [RGB](etc/[20210213]_rgb.md)
 * [CORS에 대한 이해](etc/[20210221]_cors.md)
 * [Mac 메뉴바에 BitBar Github-contribution plugin 설치하기 (feat.1일1커밋)](etc/[20210301]_bitbar.md)
+* [IntelliJ markdown 작성 시 JavaScript code 미지원 문제](etc/[20210305]_javascript_missing_from_intellij.md)
