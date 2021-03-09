@@ -28,3 +28,8 @@ export default View;
 ```
 
 ##### * Reference : ⌜리액트를 다루는 기술⌟ - 김민준 저 (⭐⭐⭐⭐⭐️강추)
+
+### +)
+- 상속의 개념도 있다.
+- styled() constructor 를 사용해서 특정 스타일을 상속받아 새 스타일을 정의할 수 있다.
+  - [styled-components - extending styles]([20210309]_styled_components_extending_styles.md)
