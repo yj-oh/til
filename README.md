@@ -71,6 +71,7 @@
 * [repository 옮기기](git/[20210208]_repository_옮기기.md)
 * [stash 참조 간편하게 - stash@{n} 말고](git/[20210211]_stash_참조_간편하게.md)
 * [What changed](git/[20210212]_what_changed.md)
+* [변경사항 다른 repository 로 옮기기](git/[20210314]_변경사항_다른_repo로_옮기기.md)
 
 ### 👉 HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
