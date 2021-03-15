@@ -43,3 +43,23 @@ none | 스타일 적용하지 않음 `default`
 forwards | 마지막 keyframe에서 설정한 스타일 값 유지 (depends on animation-direction and animation-iteration-count)
 backwards | 처음 keyframe (depends on animation-direction) 에서 설정한 스타일 값 적용, animation-delay 동안 유지
 both | forwards, backwards 양쪽 규칙을 따르고 양방향으로 확장
+
+
+## +) 
+- 한 줄로 작성할 수도 있음
+```
+animation: name, duration, timing-function, delay, iteration-count, direction, 
+           fill-mode, play-state;
+```
+ex)
+```css
+#example {
+    /* name | duration | timing-function | iteration-count | direction */
+    animation: move 2s linear 2 reverse;
+    /* keyframe move를 2초 동안 일정한 속도로 2회 역방향 재생 */
+}
+```
+
+##### * References
+- https://www.w3schools.com/css/css3_animations.asp
+- https://developer.mozilla.org/en-US/docs/Web/CSS/animation
