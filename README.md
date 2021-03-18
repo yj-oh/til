@@ -330,3 +330,4 @@
 * [Mac 메뉴바에 BitBar Github-contribution plugin 설치하기 (feat.1일1커밋)](etc/[20210301]_bitbar.md)
 * [IntelliJ markdown 작성 시 JavaScript code 미지원 문제](etc/[20210305]_javascript_missing_from_intellij.md)
 * [황금비율 가이드 - Sketch App](etc/[20210311]_sketch_golden_ratio.md)
+* [Nginx restart vs reload](etc/[20210318]_nginx_restart_vs_reload.md)
