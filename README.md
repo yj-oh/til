@@ -4,22 +4,23 @@
 >- 사소한 것이라도 매일 기록하는 습관 들이기
 
 ### Categories
-- [Database](#-Database)
-- [Git](#-Git)
-- [HTML/CSS](#-HTML/CSS)
-- [Java](#-java)
-- [JavaScript](#-JavaScript)
-- [Node.js](#-Node.js)
-- [ORM](#-ORM)
-- [Python](#-Python)
-- [React](#-React)
-- [React-native](#-React-native)
-- [Spring](#-Spring)
-- [Vue](#-Vue)
-- [Webpack](#-Webpack)
-- [Way of working](#-way-of-working)
-- [Journal](#-journal)
-- [ETC](#-ETC)
+- [Algorithm](#Algorithm)
+- [Database](#Database)
+- [Git](#Git)
+- [HTML/CSS](#HTML/CSS)
+- [Java](#java)
+- [JavaScript](#JavaScript)
+- [Node.js](#Node.js)
+- [ORM](#ORM)
+- [Python](#Python)
+- [React](#React)
+- [React Native](#React-Native)
+- [Spring](#Spring)
+- [Vue](#Vue)
+- [Webpack](#Webpack)
+- [Way of working](#way-of-working)
+- [Journal](#Journal)
+- [ETC](#ETC)
 
 ---
 
@@ -29,10 +30,10 @@
 * [vim 명령어](etc/[20210207]_vim_명령어.md)
 * [array methods 총 정리 2](javascript/[20201217]_array_methods2.md)
 
-### 👉 Algorithm
+### Algorithm
 * [`JS` 최대공약수, 최소공배수 구하기](algorithm/[20210113]_js_최대공약수_최소공배수.md)
 
-### 👉 Database
+### Database
 * [MySQL Procedure](database/[20200816]_mysql_procedure.md)
 * [MySQL emoji 저장](database/[20200825]_mysql_emoji_저장.md)
 * [MySQL 유저, 권한](database/[20200902]_mysql_user.md)
@@ -40,7 +41,7 @@
 * [PK 조건](database/[20200921]_pk_조건.md)
 * [MySQL uuid](database/[20210111]_mysql_uuid.md)
 
-### 👉 Git
+### Git
 * [Commit history | Author, Committer 변경](git/[20200714]_author_committer_변경.md)
 * [코드뭉치 스테이지에 올리기, 버리기](git/[20200717]_코드뭉치_스테이지에_올리기_버리기.md)
 * [Commit 되돌리기 | reset, revert](git/[20200729]_commit_되돌리기.md)
@@ -76,7 +77,7 @@
 * [orphan branch - 부모 없는 브랜치 생성하기](git/[20210317]_orphan_branch.md)
 * [GitHub에서 merge 충돌 해결](git/[20210319]_resolving_a_merge_conflict_on_github.md)
 
-### 👉 HTML/CSS
+### HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
 * [favicon](html_css/[20200817]_favicon.md)
 * [viewport](html_css/[20200818]_viewport.md)
@@ -98,7 +99,7 @@
 * [CSS Animation](html_css/[20210315]_css_animation.md)
 * [@keyframes](html_css/[20210316]_keyframes.md)
 
-### 👉 Java
+### Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
 * [상속](java/[20200704]_상속.md)
 * [다형성](java/[20200705]_다형성.md)
@@ -116,7 +117,7 @@
 * [Sort List Objects with stream.sorted()](java/[20201122]_sort_list_objects_with_stream_sorted.md)
 * [📚 클린코드 - 주석](java/[20201229]_클린코드_주석.md)
 
-### 👉 JavaScript
+### JavaScript
 * [정적 스코프와 동적 스코프](javascript/[20200627]_정적스코프와_동적스코프.md)
 * [전역 스코프와 블록 스코프](javascript/[20200628]_전역스코프와_블록스코프.md)
 * [선언과 할당, undefined와 ReferenceError](javascript/[20200630]_선언과_할당_undefined와_ReferenceError.md)
@@ -155,11 +156,11 @@
 * [삼항연산자 우선순위](javascript/[20210306]_삼항연산자_우선순위.md)
 * [get URL](javascript/[20210320]_get_url.md)
 
-### 👉 Node.js
+### Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
 * [error "The engine "node" is incompatible with this module."](node/[20201126]_the_engine_node_is_incompatible.md)
 
-### 👉 ORM
+### ORM
 * [ORM 정의, 장단점](orm/[20200706]_ORM_정의_장단점.md)
 * [JPA vs Hibernate vs Spring Data JPA](orm/[20200707]_JPA_vs_Hibernate_vs_Spring_Data_JPA.md)
 * [entity](orm/[20200805]_entity.md)
@@ -173,7 +174,7 @@
 * [Querydsl BooleanBuilder, BooleanExpression](orm/[20201017]_querydsl_booleanbuilder_booleanexpression.md)
 * [LocalDate default value](orm/[20210225]_localdate_default_value.md)
 
-### 👉 Python
+### Python
 * [Python 3 설치, Hello world!](python/[20200725]_install_python3.md)
 * [Python 문법 특징](python/[20200726]_python_문법_특징.md)
 * [python 명령 실행 시 버전 3 실행되게 설정하기](python/[20201223]_python_명령_실행시_버전_3.md)
@@ -182,7 +183,7 @@
 * [증감연산자?](python/[20201226]_증감연산자.md)
 * [한글 키워드 분석(불용어 제거)](python/[20201227]_한글_키워드분석_불용어_제거.md)
 
-### 👉 React
+### React
 * [React 개요](react/[20200712]_React_개요.md)
 * [프로젝트 생성](react/[20200829]_프로젝트_생성.md)
 * [WebStorm Live Template 설정](react/[20200831]_webstorm_live_template.md)
@@ -248,13 +249,13 @@
 * [styled-components - 공통 css 사용](react/[20210313]_styled-components_css.md)
 * [Object literals 피하기](react/[20210321]_avoid_object_literals.md)
 
-### 👉 React-native
+### React Native
 * [시작하기](react-native/[20201218]_시작하기.md)
 * [onPress()와 Pressable](react-native/[20201219]_onpress.md)
 * [iOS notch 옆 공간(?) 커스터마이징](react-native/[20201220]_ios_safeareaview.md)
 * [Android app - Firebase 연결](react-native/[20201228]_android_app_and_firebase.md)
 
-### 👉 Spring
+### Spring
 * [Boot에서 JSP 사용하기](spring/[20200625]_boot에서_JSP사용하기.md)
 * [groupId and artifactId](spring/[20200708]_groupId_and_artifactId.md)
 * [Constructor Injection with Lombok](spring/[20200715]_constructor_injection_with_Lombok.md)
@@ -280,23 +281,23 @@
 * [Spring Boot - CORS 설정하기](spring/[20210222]_spring_boot_cors.md)
 * [Hibernate 초기화 전략](spring/[20210226]_hibernate_초기화_전략.md)
 
-### 👉 TypeScript
+### TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
 * [개발환경 구축](typescript/[20200703]_개발환경_구축.md)
 * [react JavaScript 웹을 TypeScript로 바꿔보기](typescript/[20210119]_migrating_javascript_to_typescript.md)
 
-### 👉 Vue
+### Vue
 * [Lifecycle](vue/[20200823]_lifecycle.md)
 
 ### Webpack
 * [Webpack 개념](webpack/[20200626]_webpack.md)
 * [Concepts](webpack/[20210322]_concepts.md)
 
-### 👉 Way of working
+### Way of working
 * [일정 관리 - 구글 스프레드 시트 이용](way_of_working/[20210117]_구글_스프레드시트로_일정관리.md)
 * [Software spec이란(feat.프로젝트에 대한 단상)](way_of_working/[20210214]_software_spec.md)
 
-### 👉 Journal
+### Journal
 * [가계부 프로젝트 Prologue](journal/[20210121]_moneybook00.md)
     * [가계부 프로젝트 01 - 프로젝트 구상](journal/[20210121]_moneybook01.md)
     * [가계부 프로젝트 02 - 요구사항 정의](journal/[20210122]_moneybook02.md)
@@ -305,7 +306,7 @@
     * [가계부 프로젝트 05 - API 작업 : Java project 생성](journal/[20210227]_moneybook05.md)
 * [윤주월드 Prologue](journal/[20210310]_yjworld00.md)
 
-### 👉 ETC
+### ETC
 * [RESTful API Design Best practices | 단수와 복수](etc/[20200713]_restful_api_design_plural_or_singular.md)
 * [AWS EC2에 jdk 설치](etc/[20200720]_AWS_EC2에_jdk_설치.md)
 * [IntelliJ error | Cannot create class. Unable to parse template "Class"](etc/[20200722]_intellij_error_cannot_create_class.md)
