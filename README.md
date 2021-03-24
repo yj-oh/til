@@ -156,6 +156,7 @@
 * [삼항연산자 우선순위](javascript/[20210306]_삼항연산자_우선순위.md)
 * [get URL](javascript/[20210320]_get_url.md)
 * [How to get CSS values](javascript/[20210323]_get_css_values.md)
+* [addEventListener()](javascript/[20210324]_addeventlistener.md)
 
 ### Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
