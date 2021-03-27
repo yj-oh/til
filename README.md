@@ -159,6 +159,7 @@
 * [How to get CSS values](javascript/[20210323]_get_css_values.md)
 * [addEventListener()](javascript/[20210324]_addeventlistener.md)
 * [KeyboardEvent.keyCode - `Deprecated`!](javascript/[20210325]_keyboardevent_keycode.md)
+* [Object destructuring](javascript/[20210328]_object_destructuring.md)
 
 ### Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
