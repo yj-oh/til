@@ -254,6 +254,7 @@
 * [styled-components - 공통 css 사용](react/[20210313]_styled-components_css.md)
 * [Object literals 피하기](react/[20210321]_avoid_object_literals.md)
 * [JSX에서 숫자로 loop 돌기](react/[20210327]_how_to_loop_a_number.md)
+* [Controlled vs Uncontrolled components](react/[20210329]_controlled_vs_uncontrolled_components.md)
 
 ### React Native
 * [시작하기](react-native/[20201218]_시작하기.md)
