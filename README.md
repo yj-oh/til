@@ -99,6 +99,7 @@
 * [nth-child vs nth-of-type](html_css/[20210220]_nth_child_vs_nth_of_type.md)
 * [CSS Animation](html_css/[20210315]_css_animation.md)
 * [@keyframes](html_css/[20210316]_keyframes.md)
+* [CSS white-space](html_css/[20210331]_css_white_space.md)
 
 ### Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
