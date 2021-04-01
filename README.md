@@ -81,6 +81,7 @@
 * [orphan branch - 부모 없는 브랜치 생성하기](git/[20210317]_orphan_branch.md)
 * [GitHub에서 merge 충돌 해결](git/[20210319]_resolving_a_merge_conflict_on_github.md)
 * [원격 저장소에 잘못 올린 파일 삭제하기](git/[20210326]_delete_file.md)
+* [Deploying JavaScript App to GitHub Pages](git/[20210402]_deploying_js_app_to_github_pages.md)
 
 ### HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
