@@ -32,7 +32,7 @@ console.log(b);
 console.log(c);
 
 // 1
-// 202
+// 200
 // 3
 ```
 
