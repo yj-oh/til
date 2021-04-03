@@ -1,7 +1,7 @@
 # Deploying JavaScript App to GitHub Pages
 - 필요한 파일만 깔끔하게 배포하기
 
-- 필요한 package 설치
+### 필요한 package 설치
 ```
 yarn add webpack
 yarn add html-loader
