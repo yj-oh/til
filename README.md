@@ -17,6 +17,7 @@
 - [React](#React)
 - [React Native](#React-Native)
 - [Spring](#Spring)
+- [TypeScript](#TypeScript)
 - [Vue](#Vue)
 - [Webpack](#Webpack)
 - [Way of working](#way-of-working)
@@ -300,6 +301,7 @@
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
 * [개발환경 구축](typescript/[20200703]_개발환경_구축.md)
 * [react JavaScript 웹을 TypeScript로 바꿔보기](typescript/[20210119]_migrating_javascript_to_typescript.md)
+* [Tuple](typescript/[20210404]_tuple.md)
 
 ### Vue
 * [Lifecycle](vue/[20200823]_lifecycle.md)
