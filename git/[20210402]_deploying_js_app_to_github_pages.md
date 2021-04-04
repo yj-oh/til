@@ -1,5 +1,5 @@
 # Deploying JavaScript App to GitHub Pages
-- 필요한 파일만 깔끔하게 배포하기
+- JavaScript App을 Webpack을 이용해서 필요한 파일만 깔끔하게 GitHub page에 배포하기
 
 ### 필요한 package 설치
 ```
