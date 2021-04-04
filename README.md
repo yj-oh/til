@@ -309,6 +309,7 @@
 ### Webpack
 * [Webpack 개념](webpack/[20200626]_webpack.md)
 * [Concepts](webpack/[20210322]_concepts.md)
+* [Asset Modules](webpack/[20210405]_asset_modules.md)
 
 ### Way of working
 * [일정 관리 - 구글 스프레드 시트 이용](way_of_working/[20210117]_구글_스프레드시트로_일정관리.md)
