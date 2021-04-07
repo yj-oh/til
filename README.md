@@ -358,3 +358,4 @@
 * [IntelliJ markdown 작성 시 JavaScript code 미지원 문제](etc/[20210305]_javascript_missing_from_intellij.md)
 * [황금비율 가이드 - Sketch App](etc/[20210311]_sketch_golden_ratio.md)
 * [Nginx restart vs reload](etc/[20210318]_nginx_restart_vs_reload.md)
+* [IntelliJ 파일 형식 인식 못할 때](etc/[20210407]_intellij_filetype.md)
