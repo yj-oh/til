@@ -298,6 +298,7 @@
 * [파일 업로드 용량 설정](spring/[20210209]_파일업로드_용량_설정.md)
 * [Spring Boot - CORS 설정하기](spring/[20210222]_spring_boot_cors.md)
 * [Hibernate 초기화 전략](spring/[20210226]_hibernate_초기화_전략.md)
+* [Spring Boot - H2 innoDB Error](spring/[20210409]_spring_boot_h2_innodb_error.md)
 
 ### TypeScript
 * [TypeScript 개요](typescript/[20200703]_TypeScript_개요.md)
