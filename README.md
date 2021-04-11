@@ -110,6 +110,7 @@
 * [@keyframes](html_css/[20210316]_keyframes.md)
 * [CSS white-space](html_css/[20210331]_css_white_space.md)
 * [box-sizing](html_css/[20210406]_box_sizing.md)
+* [모바일에서 탭 하이라이트 제거하기](html_css/[20210411]_css_mobile_tap_highlight.md)
 
 ### Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
