@@ -129,6 +129,7 @@
 * [javadoc](java/[20200918]_javadoc.md)
 * [Sort List Objects with stream.sorted()](java/[20201122]_sort_list_objects_with_stream_sorted.md)
 * [📚 클린코드 - 주석](java/[20201229]_클린코드_주석.md)
+* [@DataJpaTest JdbcSQLSyntaxErrorException: Table not found...](java/[20210412]_datajpatest_table_not_found.md)
 
 ### JavaScript
 * [정적 스코프와 동적 스코프](javascript/[20200627]_정적스코프와_동적스코프.md)
