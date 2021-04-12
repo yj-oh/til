@@ -86,6 +86,7 @@
 * [원격 저장소에 잘못 올린 파일 삭제하기](git/[20210326]_delete_file.md)
 * [Deploying JavaScript App to GitHub Pages](git/[20210402]_deploying_js_app_to_github_pages.md)
 * [worktree 삭제](git/[20210403]_delete_worktree.md)
+* [Commit message template](git/[20210413]_commit_message_template.md)
 
 ### HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
