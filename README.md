@@ -366,3 +366,4 @@
 * [황금비율 가이드 - Sketch App](etc/[20210311]_sketch_golden_ratio.md)
 * [Nginx restart vs reload](etc/[20210318]_nginx_restart_vs_reload.md)
 * [IntelliJ 파일 형식 인식 못할 때](etc/[20210407]_intellij_filetype.md)
+* [Redux devtools로 dispatch action 실행하기](etc/[20210415]_redux_devtools_dispatch_action.md)
