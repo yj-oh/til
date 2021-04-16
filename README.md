@@ -4,7 +4,7 @@
 >- 사소한 것이라도 매일 기록하는 습관 들이기
 
 ### Categories
-- [Algorithm](#Algorithm-&-Data Structure)
+- [Algorithm & Data Structure](#Algorithm-&-Data-Structure)
 - [Database](#Database)
 - [Deno](#Deno)
 - [Git](#Git)
