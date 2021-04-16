@@ -35,6 +35,7 @@
 ### Algorithm & Data Structure
 * [`JS` 최대공약수, 최소공배수 구하기](algorithm/[20210113]_js_최대공약수_최소공배수.md)
 * [자료구조 - 들어가기에 앞서](algorithm/[20210408]_data_structure.md)
+* [복잡도](algorithm/[20210416]_complexity.md)
 
 ### Database
 * [MySQL Procedure](database/[20200816]_mysql_procedure.md)
