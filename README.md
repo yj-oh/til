@@ -333,6 +333,7 @@
     * [가계부 프로젝트 03 - DB 설계](journal/[20210123]_moneybook03.md)
     * [가계부 프로젝트 04 - 테이블 명세서 작성](journal/[20210204]_moneybook04.md)
     * [가계부 프로젝트 05 - API 작업 : Java project 생성](journal/[20210227]_moneybook05.md)
+    * [가계부 프로젝트 06 - CLI APP 뭐로 만들지?](journal/[20210419]_moneybook06.md)
 * [윤주월드 Prologue](journal/[20210310]_yjworld00.md)
 
 ### ETC
