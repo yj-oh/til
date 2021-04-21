@@ -180,6 +180,7 @@
 * [Date.prototype.getMonth() - zero-based value](javascript/[20210330]_date_getmonth.md)
 * [console.table()](javascript/[20210417]_console_table.md)
 * [console.log() styles](javascript/[20210418]_console_log_styles.md)
+* [Array elements - delete vs splice()](javascript/[20210422]_array_delete_vs_splice.md)
 
 ### Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
