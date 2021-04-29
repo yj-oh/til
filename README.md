@@ -182,6 +182,7 @@
 * [console.log() styles](javascript/[20210418]_console_log_styles.md)
 * [Array elements - delete vs splice()](javascript/[20210422]_array_delete_vs_splice.md)
 * [자릿수 보정 - toFixed()](javascript/[20210424]_decimal_place_tofixed.md)
+* [ES6 Map](javascript/[20210429]_map.md)
 
 ### Node.js
 * [CLI 만들기(기본) - 현재 날짜를 출력](node/[20200924]_cli_만들기_기본.md)
