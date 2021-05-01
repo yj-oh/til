@@ -382,3 +382,4 @@
 * [Redux devtools로 dispatch action 실행하기](etc/[20210415]_redux_devtools_dispatch_action.md)
 * [프론트엔드 프로젝트 Versioning](etc/[20210423]_front_end_project_versioning.md)
 * [CloudFront 캐시 삭제 - 객체 무효화](etc/[20210428]_cloudfront_invalidating_objects.md)
+* [HTTP vs HTTPS](etc/[20210501]_http_vs_https.md)
