@@ -45,6 +45,7 @@
 * [PK 조건](database/[20200921]_pk_조건.md)
 * [MySQL uuid](database/[20210111]_mysql_uuid.md)
 * [MySQL 컬럼 정보 조회](database/[20210410]_mysql_show_columns.md)
+* [DML, DDL](database/[20210502]_dml_ddl.md)
 
 ### Deno
 * [Hello, Deno!](deno/[20210401]_hello_deno.md)
