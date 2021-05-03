@@ -89,6 +89,7 @@
 * [Deploying JavaScript App to GitHub Pages](git/[20210402]_deploying_js_app_to_github_pages.md)
 * [worktree 삭제](git/[20210403]_delete_worktree.md)
 * [Commit message template](git/[20210413]_commit_message_template.md)
+* [root commit, merge commit log](git/[20210503]_git_log_first_parent.md)
 
 ### HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
