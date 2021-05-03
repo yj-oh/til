@@ -90,6 +90,7 @@
 * [worktree 삭제](git/[20210403]_delete_worktree.md)
 * [Commit message template](git/[20210413]_commit_message_template.md)
 * [root commit, merge commit log](git/[20210503]_git_log_first_parent.md)
+* [tag](git/[20210504]_tag.md)
 
 ### HTML/CSS
 * [Custom reset CSS](html_css/[20200803]_custom_reset_css.md)
