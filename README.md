@@ -285,6 +285,7 @@
 * [JSX에서 숫자로 loop 돌기](react/[20210327]_how_to_loop_a_number.md)
 * [Controlled vs Uncontrolled components](react/[20210329]_controlled_vs_uncontrolled_components.md)
 * [Building CLI application with Ink](react/[20210420]_building_cli_app_with_ink.md)
+* [SCSS](react/[20210506]_scss.md)
 
 ### React Native
 * [시작하기](react-native/[20201218]_시작하기.md)
