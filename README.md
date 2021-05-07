@@ -7,6 +7,7 @@
 - [Algorithm & Data Structure](#Algorithm-&-Data-Structure)
 - [Database](#Database)
 - [Deno](#Deno)
+- [Design](#Design)
 - [Git](#Git)
 - [HTML/CSS](#HTML/CSS)
 - [Java](#java)
@@ -49,6 +50,9 @@
 
 ### Deno
 * [Hello, Deno!](deno/[20210401]_hello_deno.md)
+
+### Design
+* [Parallax scrolling](design/[20210507]_parallax_scrolling.md)
 
 ### Git
 * [Commit history | Author, Committer 변경](git/[20200714]_author_committer_변경.md)
