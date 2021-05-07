@@ -52,6 +52,7 @@
 * [Hello, Deno!](deno/[20210401]_hello_deno.md)
 
 ### Design
+* [황금비율 가이드 - Sketch App](design/[20210311]_sketch_golden_ratio.md)
 * [Parallax scrolling](design/[20210507]_parallax_scrolling.md)
 
 ### Git
@@ -385,7 +386,6 @@
 * [CORS에 대한 이해](etc/[20210221]_cors.md)
 * [Mac 메뉴바에 BitBar Github-contribution plugin 설치하기 (feat.1일1커밋)](etc/[20210301]_bitbar.md)
 * [IntelliJ markdown 작성 시 JavaScript code 미지원 문제](etc/[20210305]_javascript_missing_from_intellij.md)
-* [황금비율 가이드 - Sketch App](etc/[20210311]_sketch_golden_ratio.md)
 * [Nginx restart vs reload](etc/[20210318]_nginx_restart_vs_reload.md)
 * [IntelliJ 파일 형식 인식 못할 때](etc/[20210407]_intellij_filetype.md)
 * [Redux devtools로 dispatch action 실행하기](etc/[20210415]_redux_devtools_dispatch_action.md)
