@@ -124,6 +124,7 @@
 * [input type="button" vs button](html_css/[20210421]_input_button_vs_button.md)
 * [CSS 단위(vw, vh, vmin, vmax, ex, ch, lh)](html_css/[20210430]_css_units.md)
 * [Sass, SCSS](html_css/[20210505]_sass_scss.md)
+* [CSS Web Safe Fonts](html_css/[20210509]_css_web_safe_fonts.md)
 
 ### Java
 * [overloading vs overriding](java/[20200629]_overloading_vs_overriding.md)
