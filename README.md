@@ -392,3 +392,4 @@
 * [프론트엔드 프로젝트 Versioning](etc/[20210423]_front_end_project_versioning.md)
 * [CloudFront 캐시 삭제 - 객체 무효화](etc/[20210428]_cloudfront_invalidating_objects.md)
 * [HTTP vs HTTPS](etc/[20210501]_http_vs_https.md)
+* [브라우저 기본 구조, 동작 과정](etc/[20210508]_how_browser_works.md)
