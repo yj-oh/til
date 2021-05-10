@@ -395,3 +395,4 @@
 * [CloudFront 캐시 삭제 - 객체 무효화](etc/[20210428]_cloudfront_invalidating_objects.md)
 * [HTTP vs HTTPS](etc/[20210501]_http_vs_https.md)
 * [브라우저 기본 구조, 동작 과정](etc/[20210508]_how_browser_works.md)
+* [웹 폰트 확장자](etc/[20210511]_web_font_formats.md)
