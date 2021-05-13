@@ -20,6 +20,7 @@
 - [Spring](#Spring)
 - [TypeScript](#TypeScript)
 - [Vue](#Vue)
+- [Web](#Web)
 - [Webpack](#Webpack)
 - [Way of working](#way-of-working)
 - [Journal](#Journal)
@@ -374,6 +375,18 @@
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
+### Web
+* [RESTful API Design Best practices | 단수와 복수](web/[20200713]_restful_api_design_plural_or_singular.md)
+* [HttpStatus code 정리](web/[20200727]_HttpStatus_code.md)
+* [PUT vs PATCH](web/[20200919]_put_vs_patch.md)
+* [Http response status code - 400 vs 403](web/[20201006]_httpstatus_code_400_403.md)
+* [CORS에 대한 이해](web/[20210221]_cors.md)
+* [HTTP vs HTTPS](web/[20210501]_http_vs_https.md)
+* [브라우저 기본 구조, 동작 과정](web/[20210508]_how_browser_works.md)
+* [웹 폰트 확장자](web/[20210511]_web_font_formats.md)
+
+[ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
+
 ### Webpack
 * [Webpack 개념](webpack/[20200626]_webpack.md)
 * [Concepts](webpack/[20210322]_concepts.md)
@@ -400,20 +413,16 @@
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
 ### ETC
-* [RESTful API Design Best practices | 단수와 복수](etc/[20200713]_restful_api_design_plural_or_singular.md)
 * [AWS EC2에 jdk 설치](etc/[20200720]_AWS_EC2에_jdk_설치.md)
 * [IntelliJ error | Cannot create class. Unable to parse template "Class"](etc/[20200722]_intellij_error_cannot_create_class.md)
 * [Keycloak이란](etc/[20200723]_keycloak이란.md)
 * 📌️ [Linux 명령어](etc/[20200724]_Linux_명령어.md)
-* [HttpStatus code 정리](etc/[20200727]_HttpStatus_code.md)
 * [Parameter vs Argument](etc/[20200730]_parameter_vs_argument.md)
 * [npm 설치 목록 보기](etc/[20200801]_npm_설치_목록_보기.md)
 * [Kill process running on port {port number} in MacOS](etc/[20200810]_Kill_process_running_on_port_in_macos.md)
 * [npm vs yarn](etc/[20200811]_npm_vs_yarn.md)
-* [PUT vs PATCH](etc/[20200919]_put_vs_patch.md)
 * [Keycloak - create user 권한 설정](etc/[20200926]_keycloak_create_user_권한.md)
 * _[AWS 도메인 연결](etc/[]_aws_도메인_연결.md)_ ⚠ 작업 중
-* [Http response status code - 400 vs 403](etc/[20201006]_httpstatus_code_400_403.md)
 * [Slack - GitHub 연동 설정](etc/[20201010]_slack_github.md)
 * [package-lock.json](etc/[20201023]_package_lock_json.md)
 * [npm install --save 옵션](etc/[20201024]_package_install_save.md)
@@ -427,7 +436,6 @@
 * [Jetbrains IDE에 TODO 주석 외 다른 유형 추가](etc/[20210126]_주석_유형_추가.md)
 * 📌️ [vim 명령어](etc/[20210207]_vim_명령어.md)
 * [RGB](etc/[20210213]_rgb.md)
-* [CORS에 대한 이해](etc/[20210221]_cors.md)
 * [Mac 메뉴바에 BitBar Github-contribution plugin 설치하기 (feat.1일1커밋)](etc/[20210301]_bitbar.md)
 * [IntelliJ markdown 작성 시 JavaScript code 미지원 문제](etc/[20210305]_javascript_missing_from_intellij.md)
 * [Nginx restart vs reload](etc/[20210318]_nginx_restart_vs_reload.md)
@@ -435,8 +443,5 @@
 * [Redux devtools로 dispatch action 실행하기](etc/[20210415]_redux_devtools_dispatch_action.md)
 * [프론트엔드 프로젝트 Versioning](etc/[20210423]_front_end_project_versioning.md)
 * [CloudFront 캐시 삭제 - 객체 무효화](etc/[20210428]_cloudfront_invalidating_objects.md)
-* [HTTP vs HTTPS](etc/[20210501]_http_vs_https.md)
-* [브라우저 기본 구조, 동작 과정](etc/[20210508]_how_browser_works.md)
-* [웹 폰트 확장자](etc/[20210511]_web_font_formats.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)

@@ -12,7 +12,7 @@
 ---
 
 # 브라우저의 기본 구조
-![](.%5B20210508%5D_how_browser_works_images/2bdff942.png)
+![](./.%5B20210508%5D_how_browser_works_images/2bdff942.png)
 
 ### 사용자 인터페이스
 - 주소 표시줄, 이전/다음 버튼, 북마크 메뉴 등. 
@@ -52,7 +52,7 @@
 - `크롬`, `사파리` 웹킷(Webkit) 엔진
 
 ### 동작 과정
-![](.%5B20210508%5D_how_browser_works_images/8a2edafb.png)
+![](./.%5B20210508%5D_how_browser_works_images/8a2edafb.png)
 
 ```text
 렌더링 엔진은 HTML 문서를 파싱하고 "콘텐츠 트리" 내부에서 태그를 DOM 노드로 변환한다. 
@@ -73,5 +73,5 @@
 ```
 
 ### 동작 과정 예
-![](.%5B20210508%5D_how_browser_works_images/fa417c97.png)
+![](./.%5B20210508%5D_how_browser_works_images/fa417c97.png)
 - ##### HTML 파싱 → 트리 구축 → 트리 배치 → 그리기
