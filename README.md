@@ -52,6 +52,7 @@
 * [MySQL uuid](database/[20210111]_mysql_uuid.md)
 * [MySQL 컬럼 정보 조회](database/[20210410]_mysql_show_columns.md)
 * [DML, DDL](database/[20210502]_dml_ddl.md)
+* [관계형 데이터베이스](database/[20210518]_relational_database.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
