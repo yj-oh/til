@@ -217,6 +217,7 @@
 * [자릿수 보정 - toFixed()](javascript/[20210424]_decimal_place_tofixed.md)
 * [ES6 Map](javascript/[20210429]_map.md)
 * [console.count()](javascript/[20210510]_console_count.md)
+* [event.target vs event.currentTarget](javascript/[20210521]_event_target_vs_currenttarget.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
