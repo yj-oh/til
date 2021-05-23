@@ -110,6 +110,7 @@
 * [root commit, merge commit log](git/[20210503]_git_log_first_parent.md)
 * [tag](git/[20210504]_tag.md)
 * [fork 해온 repository 최신 상태로 동기화하기](git/[20210522]_syncing_a_fork.md)
+* [git log --pretty](git/[20210523]_git_log_pretty.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
