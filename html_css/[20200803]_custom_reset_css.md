@@ -2,10 +2,13 @@
 ```css
 /*
 	Reset CSS
-	v1.0
-	Last updated : 2019.09.05
+	v1.1
+	Last updated : 2021.05.24
 	Author : Yunju Oh
  */
+* {
+	box-sizing:border-box;
+}
 html, body, div, span, iframe,
 h1, h2, h3, h4, h5, h6, p, pre,
 a, address, img, ins, strong, b,
