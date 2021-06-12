@@ -1,7 +1,7 @@
 # Prettier options
 - 현재 진행하고 있는 리액트 프로젝트에서 사용할 prettier 옵션을 정리 중.
 - 쓸 때 쓰더라도 알고 쓰자.
-* 함께 보기 : [코드 스타일 통일을 위한 Prettier]([20201104]_prettier.md)
+* 함께 보기 : [코드 스타일 통일을 위한 Prettier - IntelliJ 설정]([20201104]_prettier_intellij_설정.md)
 * Reference : https://prettier.io/docs/en/options.html
 
 ```text
