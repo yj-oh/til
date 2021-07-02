@@ -169,6 +169,7 @@
 * [📚 클린코드 - 주석](java/[20201229]_클린코드_주석.md)
 * [@DataJpaTest JdbcSQLSyntaxErrorException: Table not found...](java/[20210412]_datajpatest_table_not_found.md)
 * [Formatting numbers with comma](java/[20210414]_formatting_numbers_with_comma.md)
+* [Maven 프로젝트, 라이브러리까지 포함하여 build 하기 (feat. uber-JAR)](java/[20210702]_uber_jar.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
