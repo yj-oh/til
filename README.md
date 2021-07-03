@@ -113,6 +113,7 @@
 * [fork 해온 repository 최신 상태로 동기화하기](git/[20210522]_syncing_a_fork.md)
 * [git log --pretty](git/[20210523]_git_log_pretty.md)
 * [특정 커밋까지만 Push 하기](git/[20210630]_how_to_push_specific_commit.md)
+* [GitHub personal access token 사용하기 (403 권한 없음 오류)](git/[20210703]_github_authenticate_with_personal_access_tokens.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
