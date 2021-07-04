@@ -171,6 +171,7 @@
 * [@DataJpaTest JdbcSQLSyntaxErrorException: Table not found...](java/[20210412]_datajpatest_table_not_found.md)
 * [Formatting numbers with comma](java/[20210414]_formatting_numbers_with_comma.md)
 * [Maven 프로젝트, 라이브러리까지 포함하여 build 하기 (feat. uber-JAR)](java/[20210702]_uber_jar.md)
+* [Unit Test naming conventions](java/[20210704]_unit_test_naming_conventions.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
