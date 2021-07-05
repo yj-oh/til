@@ -172,6 +172,7 @@
 * [Formatting numbers with comma](java/[20210414]_formatting_numbers_with_comma.md)
 * [Maven 프로젝트, 라이브러리까지 포함하여 build 하기 (feat. uber-JAR)](java/[20210702]_uber_jar.md)
 * [Unit Test naming conventions](java/[20210704]_unit_test_naming_conventions.md)
+* [JUnit4 테스트 메소드 실행 순서 지정하기](java/[20210705]_junit4_test_execution_order.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
