@@ -30,7 +30,7 @@ $ SHOW GRANTS FOR 'username'@'host';
 
 ## 권한 부여
 ```
-$ GRANT ALL PRIVILEGES ON 'db name'.* TO 'username'@'host';
+$ GRANT ALL PRIVILEGES ON {db name}.* TO 'username'@'host';
 ```
 - ex) `GRANT ALL PRIVILEGES ON test.* TO test_user@localhost;`
    - → `test_user` 유저에게 `test` 데이터베이스에 대한 모든 권한 부여
