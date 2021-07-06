@@ -173,6 +173,7 @@
 * [Maven 프로젝트, 라이브러리까지 포함하여 build 하기 (feat. uber-JAR)](java/[20210702]_uber_jar.md)
 * [Unit Test naming conventions](java/[20210704]_unit_test_naming_conventions.md)
 * [JUnit4 테스트 메소드 실행 순서 지정하기](java/[20210705]_junit4_test_execution_order.md)
+* [📚 [Effective Java] 69. 예외는 진짜 예외 상황에만 사용하라](java/[20210706]_effective_java_69.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
