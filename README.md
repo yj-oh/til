@@ -167,7 +167,7 @@
 * [import vs static import](java/[20200917]_import_and_static_import.md)
 * [javadoc](java/[20200918]_javadoc.md)
 * [Sort List Objects with stream.sorted()](java/[20201122]_sort_list_objects_with_stream_sorted.md)
-* [📚 클린코드 - 주석](java/[20201229]_클린코드_주석.md)
+* [📚 [클린 코드] 주석](java/[20201229]_클린코드_주석.md)
 * [@DataJpaTest JdbcSQLSyntaxErrorException: Table not found...](java/[20210412]_datajpatest_table_not_found.md)
 * [Formatting numbers with comma](java/[20210414]_formatting_numbers_with_comma.md)
 * [Maven 프로젝트, 라이브러리까지 포함하여 build 하기 (feat. uber-JAR)](java/[20210702]_uber_jar.md)
