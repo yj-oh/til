@@ -175,6 +175,7 @@
 * [JUnit4 테스트 메소드 실행 순서 지정하기](java/[20210705]_junit4_test_execution_order.md)
 * [📚 [Effective Java] 69. 예외는 진짜 예외 상황에만 사용하라](java/[20210706]_effective_java_69.md)
 * [예외 처리 - 트랜잭션](java/[20210707]_exception_transaction.md)
+* [Maven Dependencies - Multiple bindings](java/[20210708]_maven_dependencies_multiple_bindings.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
