@@ -177,6 +177,7 @@
 * [예외 처리 - 트랜잭션](java/[20210707]_exception_transaction.md)
 * [Maven Dependencies - Multiple bindings](java/[20210708]_maven_dependencies_multiple_bindings.md)
 * [Logback default values](java/[20210709]_logback_default_values.md)
+* [Logback 빌드 환경에 따라 설정 파일 다르게 적용하기 - include](java/[20210710]_logback_include.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
