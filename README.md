@@ -186,6 +186,7 @@
 * [String class 2 - String 연결](java/[20210716]_string_class_2_concatenation.md)
 * [String class 3 - String 최적화](java/[20210717]_string_class_3_optimization.md)
 * [디렉토리 생성](java/[20210718]_create_directory.md)
+* [jUnit Expected Exception Test](java/[20210719]_junit_expected_exception_test.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
