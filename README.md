@@ -55,6 +55,7 @@
 * [DML, DDL](database/[20210502]_dml_ddl.md)
 * [관계형 데이터베이스](database/[20210518]_relational_database.md)
 * [DB 설계 과정의 개요](database/[20210519]_db_설계_과정의_개요.md)
+* [MySQL 환경변수 추가 (Windows)](database/[20210720]_adding_mysql_to_path_env_variable_in_windows.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
