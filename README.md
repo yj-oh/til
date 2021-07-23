@@ -484,5 +484,6 @@
 * [IntelliJ 프로젝트 폴더 구성하기](etc/[20210629]_intellij_content_root.md)
 * [License - GNU](etc/[20210722]_license_gnu.md)
 * [JP2 Format 1 - Box](etc/[20210723]_jp2_format_1_box.md)
+* [JP2 Format 2 - File Format Organization](etc/[20210724]_jp2_format_2_file_format_organization.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
