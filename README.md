@@ -483,5 +483,6 @@
 * [CloudFront 캐시 삭제 - 객체 무효화](etc/[20210428]_cloudfront_invalidating_objects.md)
 * [IntelliJ 프로젝트 폴더 구성하기](etc/[20210629]_intellij_content_root.md)
 * [License - GNU](etc/[20210722]_license_gnu.md)
+* [JP2 Format 1 - Box](etc/[20210723]_jp2_format_1_box.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
