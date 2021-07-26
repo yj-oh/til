@@ -191,6 +191,7 @@
 * [jUnit Expected Exception Test](java/[20210719]_junit_expected_exception_test.md)
 * [실행 가능한 uber-JAR 만들기](java/[20210725]_create_executable_user_jar.md)
 * [uber-JAR Error : Invalid signature file](java/[20210726]_uber_jar_error_invalid_signature_file.md)
+* [split() vs StringTokenizer](java/[20210727]_split_vs_stringtokenizer.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
