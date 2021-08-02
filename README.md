@@ -493,5 +493,6 @@
 * [License - GNU](etc/[20210722]_license_gnu.md)
 * [JP2 Format 1 - Box](etc/[20210723]_jp2_format_1_box.md)
 * [JP2 Format 2 - File Format Organization](etc/[20210724]_jp2_format_2_file_format_organization.md)
+* [Jenkins unmappable character * for encoding](etc/[20210802]_jenkins_unmappable_character.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
