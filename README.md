@@ -151,6 +151,7 @@
 * [SCSS 문법](html_css/[20210514]_scss_syntax.md)
 * [CSS content](html_css/[20210515]_css_content.md)
 * [임시이미지 넣기 - placeholder](html_css/[20210516]_placeholder_images.md)
+* [웹 표준](html_css/[20210803]_web_standard.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
