@@ -496,5 +496,6 @@
 * [JP2 Format 2 - File Format Organization](etc/[20210724]_jp2_format_2_file_format_organization.md)
 * [Jenkins unmappable character * for encoding](etc/[20210802]_jenkins_unmappable_character.md)
 * [What is REST?](etc/[20210804]_what_is_rest.md)
+* [Windows10 사용 중인 포트 죽이기](etc/[20210805]_kill_port_in_windows.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
