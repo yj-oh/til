@@ -201,6 +201,7 @@
 * [WAR vs JAR (+ EAR)](java/[20210806]_war_vs_jar.md)
 * [final](java/[20210807]_final.md)
 * [PrintWriter vs FileWriter](java/[20210808]_printwriter_vs_filewriter.md)
+* [indexOf(), lastIndexOf()](java/[20210809]_indexof_lastindexof.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
