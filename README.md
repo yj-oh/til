@@ -503,5 +503,6 @@
 * [What is REST?](etc/[20210804]_what_is_rest.md)
 * [Windows10 사용 중인 포트 죽이기](etc/[20210805]_kill_port_in_windows.md)
 * [DPI](etc/[20210810]_dpi.md)
+* [WebStorm import 시 작은 따옴표를 기본으로 설정](etc/[20210812]_webstorm_default_single_quotes_in_auto_import.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
