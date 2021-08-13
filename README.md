@@ -10,6 +10,7 @@
 - [Design](#Design)
 - [Git](#Git)
 - [HTML/CSS](#HTML/CSS)
+- [IDE](#IDE)
 - [Java](#java)
 - [JavaScript](#JavaScript)
 - [Node.js](#Node.js)
@@ -152,6 +153,18 @@
 * [CSS content](html_css/[20210515]_css_content.md)
 * [임시이미지 넣기 - placeholder](html_css/[20210516]_placeholder_images.md)
 * [웹 표준](html_css/[20210803]_web_standard.md)
+
+[ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
+
+### IDE
+* [IntelliJ error | Cannot create class. Unable to parse template "Class"](ide/[20200722]_intellij_error_cannot_create_class.md)
+* [코딩 시간 통계 보기 - WakaTime](ide/[20210102]_wakatime.md)
+* [Jetbrains IDE에 TODO 주석 외 다른 유형 추가](ide/[20210126]_주석_유형_추가.md)
+* [IntelliJ markdown 작성 시 JavaScript code 미지원 문제](ide/[20210305]_javascript_missing_from_intellij.md)
+* [IntelliJ 파일 형식 인식 못할 때](ide/[20210407]_intellij_filetype.md)
+* [IntelliJ 프로젝트 폴더 구성하기](ide/[20210629]_intellij_content_root.md)
+* [WebStorm import 시 작은 따옴표를 기본으로 설정](ide/[20210812]_webstorm_default_single_quotes_in_auto_import.md)
+* [IntelliJ 실행 시 마지막 종료한 프로젝트 reopen 설정](ide/[20210813]_intellij_reopen_last_project.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
@@ -466,7 +479,6 @@
 
 ### ETC
 * [AWS EC2에 jdk 설치](etc/[20200720]_AWS_EC2에_jdk_설치.md)
-* [IntelliJ error | Cannot create class. Unable to parse template "Class"](etc/[20200722]_intellij_error_cannot_create_class.md)
 * [Keycloak이란](etc/[20200723]_keycloak이란.md)
 * 📌️ [Linux 명령어](etc/[20200724]_Linux_명령어.md)
 * [Parameter vs Argument](etc/[20200730]_parameter_vs_argument.md)
@@ -481,21 +493,16 @@
 * [EC2 instance SSH 접속 - Permission denied error](etc/[20201106]_ec2_ssh_permission_denied.md)
 * [GitHub markdown - HTML Tags](etc/[20201230]_github_markdown_html.md)
 * [markdown 목차](etc/[20210101]_markdown_목차.md)
-* [코딩 시간 통계 보기 - WakaTime](etc/[20210102]_wakatime.md)
 * [markdown 접기/펼치기](etc/[20210104]_markdown_접기_펼치기.md)
 * [yarn-check](etc/[20210108]_yarn-check.md)
 * [postman 변수 사용하기](etc/[20210114]_postman_전역변수.md)
-* [Jetbrains IDE에 TODO 주석 외 다른 유형 추가](etc/[20210126]_주석_유형_추가.md)
 * 📌️ [vim 명령어](etc/[20210207]_vim_명령어.md)
 * [RGB](etc/[20210213]_rgb.md)
 * [Mac 메뉴바에 BitBar Github-contribution plugin 설치하기 (feat.1일1커밋)](etc/[20210301]_bitbar.md)
-* [IntelliJ markdown 작성 시 JavaScript code 미지원 문제](etc/[20210305]_javascript_missing_from_intellij.md)
 * [Nginx restart vs reload](etc/[20210318]_nginx_restart_vs_reload.md)
-* [IntelliJ 파일 형식 인식 못할 때](etc/[20210407]_intellij_filetype.md)
 * [Redux devtools로 dispatch action 실행하기](etc/[20210415]_redux_devtools_dispatch_action.md)
 * [프론트엔드 프로젝트 Versioning](etc/[20210423]_front_end_project_versioning.md)
 * [CloudFront 캐시 삭제 - 객체 무효화](etc/[20210428]_cloudfront_invalidating_objects.md)
-* [IntelliJ 프로젝트 폴더 구성하기](etc/[20210629]_intellij_content_root.md)
 * [License - GNU](etc/[20210722]_license_gnu.md)
 * [JP2 Format 1 - Box](etc/[20210723]_jp2_format_1_box.md)
 * [JP2 Format 2 - File Format Organization](etc/[20210724]_jp2_format_2_file_format_organization.md)
@@ -503,7 +510,5 @@
 * [What is REST?](etc/[20210804]_what_is_rest.md)
 * [Windows10 사용 중인 포트 죽이기](etc/[20210805]_kill_port_in_windows.md)
 * [DPI](etc/[20210810]_dpi.md)
-* [WebStorm import 시 작은 따옴표를 기본으로 설정](etc/[20210812]_webstorm_default_single_quotes_in_auto_import.md)
-* [IntelliJ 실행 시 마지막 종료한 프로젝트 reopen 설정](etc/[20210813]_intellij_reopen_last_project.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
