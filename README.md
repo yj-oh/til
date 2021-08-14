@@ -511,5 +511,6 @@
 * [What is REST?](etc/[20210804]_what_is_rest.md)
 * [Windows10 사용 중인 포트 죽이기](etc/[20210805]_kill_port_in_windows.md)
 * [DPI](etc/[20210810]_dpi.md)
+* [MacOS 커서 포함하여 스크린샷](etc/[20210815]_macos_screenshots_include_the_mouse_cursor.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
