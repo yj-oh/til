@@ -166,6 +166,7 @@
 * [IntelliJ 프로젝트 폴더 구성하기](ide/[20210629]_intellij_content_root.md)
 * [WebStorm import 시 작은 따옴표를 기본으로 설정](ide/[20210812]_webstorm_default_single_quotes_in_auto_import.md)
 * [IntelliJ 실행 시 마지막 종료한 프로젝트 reopen 설정](ide/[20210813]_intellij_reopen_last_project.md)
+* [이전 수정한 지점, 다음 수정한 지점으로 이동](ide/[20210816]_jetbrains_last_edit_location.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
