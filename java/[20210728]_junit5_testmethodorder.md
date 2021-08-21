@@ -1,4 +1,4 @@
-# jUnit5 테스트 메소드 실행 순서 지정하기 - @TestMethodOrder
+# JUnit5 테스트 메소드 실행 순서 지정하기 - @TestMethodOrder
 - 클래스에 어노테이션으로 지정
 - value
   - MethodOrderer.MethodName.class

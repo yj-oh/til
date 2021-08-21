@@ -1,6 +1,6 @@
-# jUnit Expected Exception Test
+# JUnit Expected Exception Test
 - 적절한 예외가 발생하는지 Test할 때는 `@Test`의 `expected`를 이용하면 편하다.
-- jUnit 4에 추가된 기능이라고 함.
+- JUnit 4에 추가된 기능이라고 함.
 
 ```java
 @Test(expected = Exception.class)
