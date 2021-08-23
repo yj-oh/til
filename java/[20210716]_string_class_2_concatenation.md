@@ -1,5 +1,7 @@
 # String class 2 - String 연결
 1. String 생성편 : [String class 1 - String 생성]([20210715]_string_class_1_creation.md)
+2. 👉 String 연결편 : [String class 2 - String 연결]([20210716]_string_class_2_concatenation.md) 👈
+3. String 연결편 : [String class 3 - String 최적화]([20210717]_string_class_3_optimization.md)
 
 ---
 
