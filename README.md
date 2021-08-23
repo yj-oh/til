@@ -119,6 +119,7 @@
 * [GitHub personal access token 사용하기 (403 권한 없음 오류)](git/[20210703]_github_authenticate_with_personal_access_tokens.md)
 * [GitHub 라벨에 대해 알아보자 (& 커스텀 설정 편하게 하기)](git/[20210714]_github_labels.md)
 * [fetch](git/[20210818]_fetch.md)
+* [add & commit](git/[20210824]_add_and_commit.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
