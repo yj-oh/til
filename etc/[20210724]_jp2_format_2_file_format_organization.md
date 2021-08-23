@@ -1,6 +1,7 @@
 # JP2 Format 2 - File Format Organization
+1. Box 편 : [JP2 Format 1 - Box]([20210723]_jp2_format_1_box.md)
+2. 👉 File Format Organization 편 : [JP2 Format 2 - File Format Organization]([20210724]_jp2_format_2_file_format_organization.md) 👈
 - 참고 : [JPEG2000 Standard for Image Compression](https://books.google.co.kr/books?id=r8bi4kHC_bQC&pg=PA220&lpg=PA220&dq=jp2+box&source=bl&ots=KEEEb8aqLd&sig=ACfU3U0oMUCiahmElH7hdjUFwIwOS0YM5w&hl=en&sa=X&ved=2ahUKEwj5w4bS4fjxAhWNLqYKHWOJDaIQ6AEwC3oECAIQAw#v=onepage&q=jp2%20box&f=false)
-1. Box편 : [JP2 Format 1 - Box]([20210723]_jp2_format_1_box.md)
 
 ---
 

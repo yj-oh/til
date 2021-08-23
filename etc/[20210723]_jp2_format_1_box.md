@@ -1,4 +1,9 @@
 # JP2 Format 1 - Box
+1. 👉 Box 편 : [JP2 Format 1 - Box]([20210723]_jp2_format_1_box.md) 👈
+2. File Format Organization 편 : [JP2 Format 2 - File Format Organization]([20210724]_jp2_format_2_file_format_organization.md)
+
+---
+
 - 회사에서 일주일 내내 jp2랑 씨름을 했다.
 - 그러면서 알게된 내용을 정리한다.
 - 시리즈로 몇 편 나누어서 정리할 예정.
