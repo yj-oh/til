@@ -20,3 +20,6 @@ git config --global alias.acmm '!git add --all && git commit -m'
 ```git
 git acmm "{commit_message}"
 ```
+- 단축어 관련 참고
+  - [git 명령어 단축어 지정]([20200814]_git_명령어_단축어.md)
+  - [사용하고 있는 git 단축어 모음]([20201214]_사용하고_있는_git_단축어_모음.md)
