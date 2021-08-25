@@ -1,4 +1,4 @@
-# rebase 명령어들
+# rebase -i 명령어들
 - `rebase -i` 명령어를 사용하면 아래와 같은 주석들을 볼 수 있다.
 
 ![rebase commands](.%5B20210825%5D_rebasing_edit_commands/d6586dbc.png)

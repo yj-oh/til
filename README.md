@@ -120,7 +120,7 @@
 * [GitHub 라벨에 대해 알아보자 (& 커스텀 설정 편하게 하기)](git/[20210714]_github_labels.md)
 * [fetch](git/[20210818]_fetch.md)
 * [add & commit](git/[20210824]_add_and_commit.md)
-* [rebase 명령어들](git/[20210825]_rebasing_edit_commands.md)
+* [rebase -i 명령어들](git/[20210825]_rebasing_edit_commands.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
