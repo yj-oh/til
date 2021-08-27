@@ -122,6 +122,7 @@
 * [add & commit](git/[20210824]_add_and_commit.md)
 * [rebase -i 명령어들](git/[20210825]_rebasing_edit_commands.md)
 * [log 그룹별로 요약해서 보기 - git shortlog](git/[20210826]_git_shortlog.md)
+* [worktree](git/[20210827]_worktree.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
