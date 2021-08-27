@@ -280,6 +280,7 @@
 * [ES6 Map](javascript/[20210429]_map.md)
 * [console.count()](javascript/[20210510]_console_count.md)
 * [event.target vs event.currentTarget](javascript/[20210521]_event_target_vs_currenttarget.md)
+* [Array copyWithin() method](javascript/[20210828]_array_copywithin.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
