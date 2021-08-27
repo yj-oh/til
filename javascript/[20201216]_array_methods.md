@@ -10,6 +10,7 @@
 - ➕⛔ index로 elements 추가, 삭제 `splice()`
 - ➕ Merging Array `concat()`
 - ✂️ 특정 index의 elements 잘라내기 `slice()`
+- ➕ 배열 안에서 element 교체 `copyWhithin()`
 
 ---
 
@@ -131,4 +132,19 @@ log( arr          );  // (7) ['a', 3, 'b', '2', 'c', 1, 'A']
 // index 2부터 3 전까지 잘라냄
 log( arr.slice(2, 3) );  // ['b']
 log( arr             );  // (7) ['a', 3, 'b', '2', 'c', 1, 'A']
+```
+
+### ➕ 배열 안에서 element 교체 `copyWhithin()`
+- [Array copyWithin() method]([20210828]_array_copywithin.md)
+```javascript
+copyWithin(target)
+copyWithin(target, start)
+copyWithin(target, start, end)
+```
+```javascript
+[1, 2, 3, 4, 5].copyWithin(3);          // [1, 2, 3, 1, 2]
+[1, 2, 3, 4, 5].copyWithin(0, 4);       // [5, 2, 3, 4, 5]
+[1, 2, 3, 4, 5].copyWithin(1, 0, 5);    // [1, 1, 2, 3, 4]
+[1, 2, 3, 4, 5].copyWithin(-3, -4);     // [1, 2, 2, 3, 4]
+[1, 2, 3, 4, 5].copyWithin(-3, 0, -4);  // [1, 2, 1, 4, 5]
 ```

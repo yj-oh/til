@@ -1,16 +1,17 @@
 # array methods 총 정리 2
 #### [array methods 총 정리 1]([20201216]_array_methods.md)
->- ✍️ 문자열로 출력 `toString()`
->- ✍️ 문자열로 출력(with separator) `join()`
->- ⛔️ 마지막 element 제거 `pop()`
->- ➕ 마지막에 element 추가 `push()`
->- ⛔️ 첫번째 element 제거 `shift()`
->- ➕ 앞에 element 추가 `unshift()`
->- ⛔️ 특정 index의 element 삭제 `delete`
->- ➕ 특정 index에 element 추가
->- ➕⛔ index로 elements 추가, 삭제 `splice()`
->- ➕ Merging Array `concat()`
->- ✂️ 특정 index의 elements 잘라내기 `slice()`
+- ✍️ 문자열로 출력 `toString()`
+- ✍️ 문자열로 출력(with separator) `join()`
+- ⛔️ 마지막 element 제거 `pop()`
+- ➕ 마지막에 element 추가 `push()`
+- ⛔️ 첫번째 element 제거 `shift()`
+- ➕ 앞에 element 추가 `unshift()`
+- ⛔️ 특정 index의 element 삭제 `delete`
+- ➕ 특정 index에 element 추가
+- ➕⛔ index로 elements 추가, 삭제 `splice()`
+- ➕ Merging Array `concat()`
+- ✂️ 특정 index의 elements 잘라내기 `slice()`
+- ➕ 배열 안에서 element 교체 `copyWhithin()`
     
 #### array methods 총 정리 2
 >- ❓ 특정 문자열 포함 여부 `includes()`
