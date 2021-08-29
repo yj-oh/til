@@ -1,17 +1,19 @@
 # array methods 총 정리 1
-- ✍️ 문자열로 출력 `toString()`
-- ✍️ 문자열로 출력(with separator) `join()`
-- ⛔️ 마지막 element 제거 `pop()`
-- ➕ 마지막에 element 추가 `push()`
-- ⛔️ 첫번째 element 제거 `shift()`
-- ➕ 앞에 element 추가 `unshift()`
-- ⛔️ 특정 index의 element 삭제 `delete`
-- ➕ 특정 index에 element 추가
-- ➕⛔ index로 elements 추가, 삭제 `splice()`
-- ➕ Merging Array `concat()`
-- ✂️ 특정 index의 elements 잘라내기 `slice()`
-- ➕ 배열 안에서 element 교체 `copyWhithin()`
-- ➕ 배열 채우기 `fill()`
+type | function | method
+--- | --- | ---
+✍️ | 문자열로 출력 | [toString()](#tostring)
+✍️ | 문자열로 출력(with separator) | [join()](#join)
+⛔️ | 마지막 element 제거 | [pop()](#pop)
+➕ | 마지막에 element 추가 | [push()](#push)
+⛔️ | 첫번째 element 제거 | [shift()](#shift)
+➕ | 앞에 element 추가 | [unshift()](#unshift)
+⛔️ | 특정 index의 element 삭제 | [delete](#delete)
+➕ | 특정 index에 element 추가 | [element 추가](#Add-element)
+➕⛔ | index로 elements 추가, 삭제 | [splice()](#splice)
+➕ | Merging Array | [concat()](#concat)
+✂️ | 특정 index의 elements 잘라내기 | [slice()](#slice)
+🔀 | 배열 안에서 element 교체 | [copyWithin()](#copywithin)
+➕ | 배열 채우기 | [fill()](#fill)
 
 ---
 
@@ -22,7 +24,8 @@ const log = console.log;
 const arr = ['a', 3, 'b', 2, 'c', 1, 'A'];
 ```
 
-### ✍️ 문자열로 출력 `toString()`
+## toString()
+- ✍️ 문자열로 출력
 ```javascript
 const arr = ['a', 3, 'b', 2, 'c', 1, 'A'];
 
@@ -30,14 +33,16 @@ log( arr            );  // (7) ['a', 3, 'b', 2, 'c', 1, 'A']
 log( arr.toString() );  // a,3,b,2,c,1,A
 ```
 
-### ✍️ 문자열로 출력(with separator) `join()`
+## join()
+- ✍️ 문자열로 출력(with separator)
 ```javascript
 const arr = ['a', 3, 'b', 2, 'c', 1, 'A'];
 
 log( arr.join(' - ') );  // a - 3 - b - 2 - c - 1 - A
 ```
 
-### ⛔️ 마지막 element 제거 `pop()`
+## pop()
+- ⛔️ 마지막 element 제거
 ```javascript
 const arr = ['a', 3, 'b', 2, 'c', 1, 'A'];
 
@@ -45,7 +50,8 @@ log( arr.pop() );  // A
 log( arr       );  // (6) ['a', 3, 'b', 2, 'c', 1]
 ```
 
-### ➕ 마지막에 element 추가 `push()`
+## push()
+- ➕ 마지막에 element 추가
 ```javascript
 const arr = ['a', 3, 'b', 2, 'c', 1];
 
@@ -53,7 +59,8 @@ log( arr.push('A') );  // 7
 log( arr           );  // (7) ['a', 3, 'b', 2, 'c', 1, 'A']
 ```
 
-### ⛔️ 첫번째 element 제거 `shift()`
+## shift()
+- ⛔️ 첫번째 element 제거
 ```javascript
 const arr = ['a', 3, 'b', 2, 'c', 1, 'A'];
 
@@ -61,7 +68,8 @@ log( arr.shift() );  // a
 log( arr         );  // (6) [3, 'b', 2, 'c', 1, 'A']
 ```
 
-### ➕ 앞에 element 추가 `unshift()`
+## unshift()
+- ➕ 앞에 element 추가
 ```javascript
 const arr = [3, 'b', 2, 'c', 1, 'A'];
 
@@ -69,7 +77,8 @@ log( arr.unshift('a') );  // 7
 log( arr );  // (7) ['a', 3, 'b', 2, 'c', 1, 'A']
 ```
 
-### ⛔️ 특정 index의 element 삭제 `delete`
+## delete
+- ⛔️ 특정 index의 element 삭제
 ```javascript
 const arr = ['a', 3, 'b', 2, 'c', 1, 'A'];
 
@@ -78,7 +87,8 @@ log( arr           );  // (7) [empty, 3, 'b', 2, 'c', 1, 'A']
 log( arr[0]        );  // undefined
 ```
 
-### ➕ 특정 index에 element 추가
+## Add element
+- ➕ 특정 index에 element 추가
 ```javascript
 const arr = [empty, 3, 'b', 2, 'c', 1, 'A'];
 
@@ -86,7 +96,8 @@ log( arr[0] = 'a' );  // a
 log( arr          );  // (7) ['a', 3, 'b', 2, 'c', 1, 'A']
 ```
 
-### ➕⛔ index로 elements 추가, 삭제 `splice()`
+## splice()
+- ➕⛔ index로 elements 추가, 삭제
 ```javascript
 const arr = ['a', 3, 'b', 2, 'c', 1, 'A'];
 
@@ -107,7 +118,8 @@ log( arr.splice(1) );  // (6) [3, 'b', 2, 'c', 1, 'A']
 log(arr            );  // ['a']
 ```
 
-### ➕ Merging Array `concat()`
+## concat()
+- ➕ Merging Array
 - 기존 array를 변경하지 않고 새 array를 반환한다.
 ```javascript
 const arr = ['a', 3, 'b', 2, 'c', 1, 'A'];
@@ -121,7 +133,8 @@ log( arr.concat('new A') );  // (8) ['a', 3, 'b', '2', 'c', 1, 'A', 'new A']
 log( arr );  // (7) ['a', 3, 'b', '2', 'c', 1, 'A']
 ```
 
-### ✂️ 특정 index의 elements 잘라내기 `slice()`
+## slice()
+- ✂️ 특정 index의 elements 잘라내기
 - 기존 array를 변경하지 않고 새 array를 반환한다.
 ```javascript
 const arr = ['a', 3, 'b', 2, 'c', 1, 'A'];
@@ -135,7 +148,8 @@ log( arr.slice(2, 3) );  // ['b']
 log( arr             );  // (7) ['a', 3, 'b', '2', 'c', 1, 'A']
 ```
 
-### ➕ 배열 안에서 element 교체 `copyWhithin()`
+## copyWithin()
+- 🔀 배열 안에서 element 교체
 - [Array copyWithin() method]([20210828]_array_copywithin.md)
 ```javascript
 copyWithin(target)
@@ -150,7 +164,8 @@ copyWithin(target, start, end)
 [1, 2, 3, 4, 5].copyWithin(-3, 0, -4);  // [1, 2, 1, 4, 5]
 ```
 
-### ➕ 배열 채우기 `fill()`
+## fill()
+- ➕ 배열 채우기
 - [Array fill() method]([20210829]_array_fill.md)
 ```javascript
 fill(value)
