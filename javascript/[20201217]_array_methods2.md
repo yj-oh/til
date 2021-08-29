@@ -12,6 +12,7 @@
 - ➕ Merging Array `concat()`
 - ✂️ 특정 index의 elements 잘라내기 `slice()`
 - ➕ 배열 안에서 element 교체 `copyWhithin()`
+- ➕ 배열 채우기 `fill()`
     
 #### array methods 총 정리 2
 >- ❓ 특정 문자열 포함 여부 `includes()`

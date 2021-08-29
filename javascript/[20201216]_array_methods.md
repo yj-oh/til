@@ -11,6 +11,7 @@
 - ➕ Merging Array `concat()`
 - ✂️ 특정 index의 elements 잘라내기 `slice()`
 - ➕ 배열 안에서 element 교체 `copyWhithin()`
+- ➕ 배열 채우기 `fill()`
 
 ---
 
@@ -147,4 +148,18 @@ copyWithin(target, start, end)
 [1, 2, 3, 4, 5].copyWithin(1, 0, 5);    // [1, 1, 2, 3, 4]
 [1, 2, 3, 4, 5].copyWithin(-3, -4);     // [1, 2, 2, 3, 4]
 [1, 2, 3, 4, 5].copyWithin(-3, 0, -4);  // [1, 2, 1, 4, 5]
+```
+
+### ➕ 배열 채우기 `fill()`
+- [Array fill() method]([20210829]_array_fill.md)
+```javascript
+fill(value)
+fill(value, start)
+fill(value, start, end)
+```
+```javascript
+[1, 2, 3, 4, 5].fill(3);        // [3, 3, 3, 3, 3]
+[1, 2, 3, 4, 5].fill(0, 4);     // [1, 2, 3, 4, 0]
+[1, 2, 3, 4, 5].fill(1, 0, 5);  // [1, 1, 1, 1, 1]
+[1, 2, 3, 4, 5].fill(-3, -4);   // [1, -3, -3, -3, -3]
 ```
