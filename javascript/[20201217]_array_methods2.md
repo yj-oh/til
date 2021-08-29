@@ -15,12 +15,14 @@
 - ➕ 배열 채우기 `fill()`
     
 #### array methods 총 정리 2
->- ❓ 특정 문자열 포함 여부 `includes()`
->- ❓ 특정 조건 충족 여부 (일부라도) `some()`
->- ❓ 특정 조건 충족 여부 (전체) `every()`
->- ➕ callbackFunction의 결과로 새로운 배열 반환 `map()`
->- 🔎 특정 값 찾기 (첫 번째 반환) `find()`
->- 🔎 특정 값 찾기 (전체 반환) `filter()`
+type | function | method
+--- | --- | ---
+❓ | 특정 문자열 포함 여부 | [includes()](#includes)
+❓ | 특정 조건 충족 여부 (일부라도) | [some()](#some)
+❓ | 특정 조건 충족 여부 (전체) | [every()](#every)
+➕ | callbackFunction의 결과로 새로운 배열 반환 | [map()](#map)
+🔎 | 특정 값 찾기 (첫 번째 반환) | [find()](#find)
+🔎 | 특정 값 찾기 (전체 반환) | [filter()](#filter)
 
 ---
 
@@ -68,33 +70,38 @@ const animals = [
 ];
 ```
 
-### ❓ 특정 문자열 포함 여부 `includes()`
+## includes()
+- ❓ 특정 문자열 포함 여부
 - string.includes(search_string, index)
     - search_string : 찾고자 하는 문자열
     - index : 검색 시작 인덱스
 - 대소문자 구분
 
-### ❓ 특정 조건 충족 여부 (일부라도) `some()`
+## some()
+- ❓ 특정 조건 충족 여부 (일부라도)
 - 배열의 요소 중 하나라도 포함되면 true
 ```javascript
 log( animals.some((animal) => animal.like.includes('집')) );    // true
 log( animals.some((animal) => animal.like.includes('엽떡')) );  // false
 ```
 
-### ❓ 특정 조건 충족 여부 (전체) `every()`
+## every()
+- ❓ 특정 조건 충족 여부 (전체)
 - 배열의 요소 전체가 포함되면 true
 ```javascript
 log( animals.every((animal) => animal.like.includes('사료')) );  // true
 log( animals.every((animal) => animal.like.includes('배칩')) );  // false
 ```
 
-### ➕ callbackFunction의 결과로 새로운 배열 반환 `map()`
+## map()
+- ➕ callbackFunction의 결과로 새로운 배열 반환
 ```javascript
 log( animals.map((animal) => animal.name) );
 // ["오춘복", "오춘식", "앵", "충", "블루", "막렝이"]
 ```
 
-### 🔎 특정 값 찾기 (첫 번째 반환) `find()`
+## find()
+- 🔎 특정 값 찾기 (첫 번째 반환)
 - 첫 번째 값만 반환
 - 없으면 `undefined`
 ```javascript
@@ -102,7 +109,8 @@ log( animals.find((animal) => animal.name === '오춘식') );
 // {id: 2, name: "오춘식", type: "hamster", like: Array(3)}
 ```
 
-### 🔎 특정 값 찾기 (전체 반환) `filter()`
+## filter()
+- 🔎 특정 값 찾기 (전체 반환)
 - 검색 결과가 여러 건일 경우 배열 형태로 반환
 ```javascript
 log( animals.filter((animal) => animal.like.includes('집')) );
