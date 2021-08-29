@@ -15,14 +15,14 @@
 - ➕ 배열 채우기 `fill()`
     
 #### array methods 총 정리 2
-type | function | method
---- | --- | ---
-❓ | 특정 문자열 포함 여부 | [includes()](#includes)
-❓ | 특정 조건 충족 여부 (일부라도) | [some()](#some)
-❓ | 특정 조건 충족 여부 (전체) | [every()](#every)
-➕ | callbackFunction의 결과로 새로운 배열 반환 | [map()](#map)
-🔎 | 특정 값 찾기 (첫 번째 반환) | [find()](#find)
-🔎 | 특정 값 찾기 (전체 반환) | [filter()](#filter)
+type | function | method | 수정 또는 사본
+--- | --- | --- | ---
+❓ | 특정 문자열 포함 여부 | [includes()](#includes) | -
+❓ | 특정 조건 충족 여부 (일부라도) | [some()](#some) | -
+❓ | 특정 조건 충족 여부 (전체) | [every()](#every) | -
+➕ | callbackFunction의 결과로 새로운 배열 반환 | [map()](#map) | 사본
+🔎 | 특정 값 찾기 (첫 번째 반환) | [find()](#find) | -
+🔎 | 특정 값 찾기 (전체 반환) | [filter()](#filter) | 사본
 
 ---
 
