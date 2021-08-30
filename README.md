@@ -281,8 +281,8 @@
 * [ES6 Map](javascript/[20210429]_map.md)
 * [console.count()](javascript/[20210510]_console_count.md)
 * [event.target vs event.currentTarget](javascript/[20210521]_event_target_vs_currenttarget.md)
-* [Array copyWithin() method](javascript/[20210828]_array_copywithin.md)
-* [Array fill() method](javascript/[20210829]_array_fill.md)
+* [Array copyWithin() method - 배열 안에서 요소를 교체](javascript/[20210828]_array_copywithin.md)
+* [Array fill() method - 배열 채우기](javascript/[20210829]_array_fill.md)
 * [Array findIndex() method - 조건을 만족하는 요소의 인덱스 반환](javascript/[20210831]_array_findindex.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
