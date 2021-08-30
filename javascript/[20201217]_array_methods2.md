@@ -23,6 +23,7 @@ type | function | method | 수정 또는 사본
 ➕ | callbackFunction의 결과로 새로운 배열 반환 | [map()](#map) | 사본
 🔎 | 특정 값 찾기 (첫 번째 반환) | [find()](#find) | -
 🔎 | 특정 값 찾기 (전체 반환) | [filter()](#filter) | 사본
+🔎 | 특정 값 찾기 (함수 실행하여 검색) | [findIndex()](#findindex) | -
 
 ---
 
@@ -117,4 +118,22 @@ log( animals.filter((animal) => animal.like.includes('집')) );
 // (2) [{...}, {...}]
 //      0: {id: 3, name: "앵", type: "blood parrot cichlid", age: 3, like: Array(2)}
 //      1: {id: 5, name: "블루", type: "cichlid", age: 2, like: Array(3)}
+```
+
+## findIndex()
+- 🔎 특정 값 찾기 (함수 실행하여 검색)
+- 조건을 만족하는 요소의 index 를 반환하는 함수.
+- 검색을 위해 각 요소에 대해 `callbackFn`를 실행한다.
+```javascript
+function isPrime(num) {
+  for (let i = 2; num > i; i++) {
+    if (num % i == 0) {
+      return false;
+    }
+  }
+  return num > 1;
+}
+
+console.log([4, 6, 8, 9, 12].findIndex(isPrime));  // -1, not found
+console.log([4, 6, 7, 9, 12].findIndex(isPrime));  // 2 (array[2] is 7)
 ```
