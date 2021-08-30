@@ -160,6 +160,7 @@
 * [웹 표준](html_css/[20210803]_web_standard.md)
 * [CSS resize](html_css/[20210814]_css_resize.md)
 * [article vs section](html_css/[20210817]_article_vs_section.md)
+* [border-radius 정복하기 (feat.FANCY-BORDER-RADIUS)](html_css/[20210830]_mastering_border_radius.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
