@@ -1,6 +1,6 @@
 # Array fill() method
 - 배열 채우기
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill
+- 참고 : [Array.prototype.fill() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
 
 ## 👉 문법
 ```javascript

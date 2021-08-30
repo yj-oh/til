@@ -1,6 +1,6 @@
 # Array copyWithin() method
 - 배열 안에서 요소를 교체
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin
+- 참고 : [Array.prototype.copyWithin() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin)
 
 ## 👉 문법
 ```javascript

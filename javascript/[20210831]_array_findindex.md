@@ -1,7 +1,7 @@
 # Array findIndex() method - 조건을 만족하는 요소의 인덱스 반환
 - 조건을 만족하는 요소의 index 를 반환하는 함수.
 - 검색을 위해 각 요소에 대해 `callbackFn`를 실행한다.
-- 참고 : [Array.prototype.findIndex()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
+- 참고 : [Array.prototype.findIndex() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
 - `TIL` \[20210120\] : [Array 내부 객체 중복값 제거]([20210120]_array_내부객체_중복값_제거.md)
   - 위 예제에 `findIndex()`가 나온다.
 
