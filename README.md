@@ -228,6 +228,7 @@
 * [Java 11](java/[20210820]_java_11.md)
 * [📚 [Effective Java] 4. 인스턴스화를 막으려거든 private 생성자를 사용하라](java/[20210821]_effective_java_4.md)
 * [📚 [Effective Java] 13. 클래스와 멤버의 접근 권한은 최소화하라](java/[20210822]_effective_java_13.md)
+* [mavenCentral vs jCenter](java/[20210901]_mavencentral_vs_jcenter.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
