@@ -434,6 +434,7 @@
 * [Spring Boot - H2 innoDB Error](spring/[20210409]_spring_boot_h2_innodb_error.md)
 * [Lombok @Builder and constructor](spring/[20210426]_lombok_builder_and_constructor.md)
 * [Spring Security 를 사용하는 프로젝트에서 CORS 설정](spring/[20210427]_cors_with_spring_security.md)
+* [Spring Boot 환경별 설정(YAML) - 2.4에 달라진 점](spring/[20211028]_config_file_processing_in_spring_boot_2.4.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
