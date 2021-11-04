@@ -60,7 +60,7 @@ the resource with CORS disabled.
 ## 결국 CORS 설정
 - Origin, preflight... what?
 - 열공
-  - [CORS에 대한 이해](../etc/[20210221]_cors.md)
+  - [CORS에 대한 이해](../web/[20210221]_cors.md)
   - [Spring Boot - CORS 설정하기](../spring/[20210222]_spring_boot_cors.md)
 - 처음에 Origin이 뭔지 CORS 관련 설정을 어디에 해야하는지 헷갈렸다.
   - Origin은 https://web.com
