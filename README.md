@@ -469,6 +469,7 @@
 * [웹 폰트 확장자](web/[20210511]_web_font_formats.md)
 * [CDN](web/[20210520]_cdn.md)
 * [Nginx](web/[20211105]_nginx.md)
+* [Forward Proxy vs Reverse Proxy](web/[20211106]_forward_proxy_vs_reverse_proxy.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
