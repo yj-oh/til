@@ -470,6 +470,7 @@
 * [CDN](web/[20210520]_cdn.md)
 * [Nginx](web/[20211105]_nginx.md)
 * [Forward Proxy vs Reverse Proxy](web/[20211106]_forward_proxy_vs_reverse_proxy.md)
+* [Nginx 설치 on Ubuntu](web/[20211107]_install_nginx_on_ubuntu.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
