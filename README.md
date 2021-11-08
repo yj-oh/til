@@ -471,6 +471,7 @@
 * [Nginx](web/[20211105]_nginx.md)
 * [Forward Proxy vs Reverse Proxy](web/[20211106]_forward_proxy_vs_reverse_proxy.md)
 * [Nginx 설치 on Ubuntu](web/[20211107]_install_nginx_on_ubuntu.md)
+* [nginx.conf 뜯어보기](web/[20211108]_nginx_conf.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
