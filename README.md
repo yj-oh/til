@@ -8,7 +8,7 @@
 - [Database](#Database)
 - [Deno](#Deno)
 - [Design](#Design)
-- [Git](#Git)
+- [Git & GitHub](#Git-&-GitHub)
 - [HTML/CSS](#HTML/CSS)
 - [IDE](#IDE)
 - [Java](#java)
@@ -72,7 +72,7 @@
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
-### Git
+### Git & GitHub
 * [Commit history | Author, Committer 변경](git/[20200714]_author_committer_변경.md)
 * [코드뭉치 스테이지에 올리기, 버리기](git/[20200717]_코드뭉치_스테이지에_올리기_버리기.md)
 * [Commit 되돌리기 | reset, revert](git/[20200729]_commit_되돌리기.md)
