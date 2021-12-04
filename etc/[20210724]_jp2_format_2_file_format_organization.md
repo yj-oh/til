@@ -9,14 +9,14 @@
 
 ![](.%5B20210724%5D_jp2_format_2_file_format_organization_images/24d4d2d5.png)
 
-Name | Type (TBox field in the box)
---- | ---
-JP2 Signature box | 'jP\032\032' (6A 50 1A 1A)h
-Profile box | 'prfl' (70 72 66 6C)h
-JP2 Header box | 'jp2h' (6A 70 32 68)h
-Image Header box | 'ihdr' (69 68 64 72)h
-Color Specification box | 'colr' (63 6F 6C 72)h
-Contiguous Code-Stream box | 'jp2c' (6A 70 32 63)h
+| Name                       | Type (TBox field in the box) |
+|----------------------------|------------------------------|
+| JP2 Signature box          | 'jP\032\032' (6A 50 1A 1A)h  |
+| Profile box                | 'prfl' (70 72 66 6C)h        |
+| JP2 Header box             | 'jp2h' (6A 70 32 68)h        |
+| Image Header box           | 'ihdr' (69 68 64 72)h        |
+| Color Specification box    | 'colr' (63 6F 6C 72)h        |
+| Contiguous Code-Stream box | 'jp2c' (6A 70 32 63)h        |
 
 ## JP2 Signature box
 - 무조건 첫번째로 오는 박스
@@ -49,29 +49,29 @@ DBox는 6A 70 32 20 00 00 00 00 6A 70 32 20 이다.
 - TBox : 'ihdr' (69 68 64 72)h
 - DBox : 8개의 subfields
 
-Field Name | Description | Size(bytes) | Value
---- | --- | --- | ---
-VERS | Major/Minor version number | 2 | (01 00)h
-NC | Number of components | 2 | 1-(2^16-1)
-HEIGHT | Image height | 4 | 1-(2^32-1)
-WIDTH | Image width | 4 | 1-(2^32-1)
-BPC | Bits per component | 1 | -127 ~ 127
-C | Compression type | 1 | 7
-UnkC | Color space unknown | 1 | 0 or 1
-IPR | Intellectual property | 1 | 0 or 1
+| Field Name | Description                | Size(bytes) | Value      |
+|------------|----------------------------|-------------|------------|
+| VERS       | Major/Minor version number | 2           | (01 00)h   |
+| NC         | Number of components       | 2           | 1-(2^16-1) |
+| HEIGHT     | Image height               | 4           | 1-(2^32-1) |
+| WIDTH      | Image width                | 4           | 1-(2^32-1) |
+| BPC        | Bits per component         | 1           | -127 ~ 127 |
+| C          | Compression type           | 1           | 7          |
+| UnkC       | Color space unknown        | 1           | 0 or 1     |
+| IPR        | Intellectual property      | 1           | 0 or 1     |
 
 ## Color Specification box
 - 압축 해제된 이미지 컴포넌트에 대한 색상 공간 지정
 - TBox : 'colr' (63 6F 6C 72)h
 - DBox : 5개의 subfields
 
-Field Name | Description | Size(bytes) | Value
---- | --- | --- | ---
-METH | Specification method | 1 | 1 = Enumerated, 2 = Restricted ICC Profile
-PREC | Precedence | 1 | 0
-APPROX | Color space approximation | 1 | 0
-EnumCs | Enumerated color space | 4(METH=1), 0(METH=2) | 0-(2^32-1) nonexistent
-PROFILE | ICC profile | Varies | Varies
+| Field Name | Description               | Size(bytes)          | Value                                      |
+|------------|---------------------------|----------------------|--------------------------------------------|
+| METH       | Specification method      | 1                    | 1 = Enumerated, 2 = Restricted ICC Profile |
+| PREC       | Precedence                | 1                    | 0                                          |
+| APPROX     | Color space approximation | 1                    | 0                                          |
+| EnumCs     | Enumerated color space    | 4(METH=1), 0(METH=2) | 0-(2^32-1) nonexistent                     |
+| PROFILE    | ICC profile               | Varies               | Varies                                     |
 
 ## Contiguous Code-Stream box
 - JPEG2000 code-stream

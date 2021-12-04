@@ -68,11 +68,11 @@ public final class Alphanumeric extends Sorter implements Ordering.Factory {
 - 4.11 버전부터 가능
 - https://junit.org/junit4/javadoc/4.12/org/junit/FixMethodOrder.html
 
-속성 | 설명
---- | ---
-MethodSorters.DEFAULT | deterministic, 그러나 예측하기 힘들다.
-MethodSorters.JVM | JVM에서 리턴되는 순서. 실행마다 다를 수 있다.
-MethodSorters.NAME_ASCENDING | 메소드명 오름차순 
+| 속성                           | 설명                           |
+|------------------------------|------------------------------|
+| MethodSorters.DEFAULT        | deterministic, 그러나 예측하기 힘들다. |
+| MethodSorters.JVM            | JVM에서 리턴되는 순서. 실행마다 다를 수 있다. |
+| MethodSorters.NAME_ASCENDING | 메소드명 오름차순                    |
 
 ### 예제
 ```java

@@ -24,12 +24,12 @@
 - 전체 시스템의 성공 여부와 별개로 개발, 테스트, 최적화 가능
 
 # 👉 Java 접근 제한자
-Accessibility | Description
---- | ---
-private | 최상위 레벨 클래스
-package-private (default) | 같은 패키지의 모든 클래스
-protected | 같은 패키지의 모든 클래스, 하위 클래스
-public | 모든 클래스
+| Accessibility             | Description            |
+|---------------------------|------------------------|
+| private                   | 최상위 레벨 클래스             |
+| package-private (default) | 같은 패키지의 모든 클래스         |
+| protected                 | 같은 패키지의 모든 클래스, 하위 클래스 |
+| public                    | 모든 클래스                 |
 
 # 👉 원칙
 ### ⭐⭐⭐️ 각 클래스와 멤버는 가능한 한 접근 불가능하도록 만들라

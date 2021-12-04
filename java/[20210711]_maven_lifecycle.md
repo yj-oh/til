@@ -25,22 +25,22 @@
 
 # Build Lifecycle Basics
 ## Three built-in build lifecycles
-Lifecycle | Description
---- | ---
-default | 프로젝트 배포
-clean | 프로젝트 정리
-site | 프로젝트 문서화
+| Lifecycle | Description |
+|-----------|-------------|
+| default   | 프로젝트 배포     |
+| clean     | 프로젝트 정리     |
+| site      | 프로젝트 문서화    |
 
 ## Default lifecycle
-Phase | Description
---- | ---
-validate | 프로젝트의 유효성을 확인
-compile | 프로젝트의 소스 코드 컴파일
-test | testing framework 를 사용하여 컴파일된 소스 코드 테스트 (패키징, 배포 X)
-package | JAR 등 배포 가능한 포맷으로 패키징
-verity | 패키지가 품질 기준에 적합한지 테스트
-install | 패키지를 로컬 저장소에 설치
-deploy | 패키지를 원격 저장소에 배포
+| Phase    | Description                                         |
+|----------|-----------------------------------------------------|
+| validate | 프로젝트의 유효성을 확인                                       |
+| compile  | 프로젝트의 소스 코드 컴파일                                     |
+| test     | testing framework 를 사용하여 컴파일된 소스 코드 테스트 (패키징, 배포 X) |
+| package  | JAR 등 배포 가능한 포맷으로 패키징                               |
+| verity   | 패키지가 품질 기준에 적합한지 테스트                                |
+| install  | 패키지를 로컬 저장소에 설치                                     |
+| deploy   | 패키지를 원격 저장소에 배포                                     |
 
 - 각각이 순차적으로 실행된다.
 
@@ -69,56 +69,56 @@ mvn clean deploy
 - 각 패키징에는 특정 단계에 바인딩할 골 목록이 포함되어 있다.
 - 이를테면 jar 패키징은 기본 수명 주기의 빌드 단계에 아래와 같은 골들을 바인딩한다.
 
-Phase | plugin:goal
---- | ---
-process-resources | resources:resources
-compile | compiler:compile
-process-test-resources | resources:testResources
-test-compile | compiler:testCompile
-test | surefire:test
-package | jar:jar
-install | install:install
-deploy | deploy:deploy
+| Phase                  | plugin:goal             |
+|------------------------|-------------------------|
+| process-resources      | resources:resources     |
+| compile                | compiler:compile        |
+| process-test-resources | resources:testResources |
+| test-compile           | compiler:testCompile    |
+| test                   | surefire:test           |
+| package                | jar:jar                 |
+| install                | install:install         |
+| deploy                 | deploy:deploy           |
 
 # Lifecycle Reference
 ## Clean Lifecycle
-Phase | Description
---- | ---
-pre-clean | 프로젝트 정리 전 필요한 프로세스 실행
-clean | 이전 빌드에서 생성된 모든 파일 제거
-post-clean | 프로젝트 정리를 완료하기 위한 프로세스 실행
+| Phase      | Description              |
+|------------|--------------------------|
+| pre-clean  | 프로젝트 정리 전 필요한 프로세스 실행    |
+| clean      | 이전 빌드에서 생성된 모든 파일 제거     |
+| post-clean | 프로젝트 정리를 완료하기 위한 프로세스 실행 |
 
 ## Default Lifecycle
-Phase | Description
---- | ---
-validate | 프로젝트의 유효성을 확인
-initialize | 빌드 상태 초기화 (e.g. set properties, create directories)
-generate-sources | 컴파일할 모든 소스 코드 생성
-process-sources | 소스 코드 처리, 예를 들어 값을 필터링하기 위해
-generate-resources | 패키지에 포함할 리소스 생성
-process-resources | 패키징 할 디렉토리로 리소스를 복사
-compile | 소스 코드 컴파일
-process-classes | 컴파일 하고 생성된 파일을 사후 처리, 예를 들어 to do bytecode enhancement on Java classes
-generate-test-sources | 컴파일 할 테스트 코드 생성
-process-test-sources | 테스트 코드 처리, 예를 들어 값을 필터링 하기 위해
-generate-test-resources | 테스트 리소스 생성
-process-test-resources | 테스트 디렉토리로 리소스를 복사
-test-compile | 테스트 코드를 컴파일
-process-test-classes | 컴파일 하고 생성된 테스트 파일을 사후 처리
-test | unit testing framework 를 사용해 테스트 실행 (패키징, 배포 X)
-prepare-package | 패키징 전 필요한 작업 수행
-package | 컴파일 된 코드를 가져와서 JAR 등과 같이 배포 가능한 포맷으로 패키징
-pre-integration-test | 통합 테스트 전 필요한 작업 수행 (환경 설정 등)
-integration-test | 통합 테스트
-post-integration-test | 통합 테스트 후 필요한 작업 수행
-verify | 패키지가 품질 기준에 적합한지 테스트
-install | 패키지를 로컬에 설치
-deploy | 패키지를 원격 저장소에 배포
+| Phase                   | Description                                                            |
+|-------------------------|------------------------------------------------------------------------|
+| validate                | 프로젝트의 유효성을 확인                                                          |
+| initialize              | 빌드 상태 초기화 (e.g. set properties, create directories)                    |
+| generate-sources        | 컴파일할 모든 소스 코드 생성                                                       |
+| process-sources         | 소스 코드 처리, 예를 들어 값을 필터링하기 위해                                            |
+| generate-resources      | 패키지에 포함할 리소스 생성                                                        |
+| process-resources       | 패키징 할 디렉토리로 리소스를 복사                                                    |
+| compile                 | 소스 코드 컴파일                                                              |
+| process-classes         | 컴파일 하고 생성된 파일을 사후 처리, 예를 들어 to do bytecode enhancement on Java classes |
+| generate-test-sources   | 컴파일 할 테스트 코드 생성                                                        |
+| process-test-sources    | 테스트 코드 처리, 예를 들어 값을 필터링 하기 위해                                          |
+| generate-test-resources | 테스트 리소스 생성                                                             |
+| process-test-resources  | 테스트 디렉토리로 리소스를 복사                                                      |
+| test-compile            | 테스트 코드를 컴파일                                                            |
+| process-test-classes    | 컴파일 하고 생성된 테스트 파일을 사후 처리                                               |
+| test                    | unit testing framework 를 사용해 테스트 실행 (패키징, 배포 X)                        |
+| prepare-package         | 패키징 전 필요한 작업 수행                                                        |
+| package                 | 컴파일 된 코드를 가져와서 JAR 등과 같이 배포 가능한 포맷으로 패키징                               |
+| pre-integration-test    | 통합 테스트 전 필요한 작업 수행 (환경 설정 등)                                           |
+| integration-test        | 통합 테스트                                                                 |
+| post-integration-test   | 통합 테스트 후 필요한 작업 수행                                                     |
+| verify                  | 패키지가 품질 기준에 적합한지 테스트                                                   |
+| install                 | 패키지를 로컬에 설치                                                            |
+| deploy                  | 패키지를 원격 저장소에 배포                                                        |
 
 ## Site Lifecycle
-Phase | Description
---- | ---
-pre-site | 사전 작업
-site | 프로젝트의 문서 생성
-post-site | 생성 완료 및 배포 준비 작업
-site-deploy | 웹 서버에 문서 배포
+| Phase       | Description      |
+|-------------|------------------|
+| pre-site    | 사전 작업            |
+| site        | 프로젝트의 문서 생성      |
+| post-site   | 생성 완료 및 배포 준비 작업 |
+| site-deploy | 웹 서버에 문서 배포      |

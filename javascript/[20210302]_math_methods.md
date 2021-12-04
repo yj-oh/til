@@ -2,12 +2,12 @@
 - Mathematical tasks on numbers.
 - The Math object is static - no constructor.
 
-Methods | Description
---- | ---
-Math.round() | 반올림
-Math.ceil() | 올림
-Math.floor() | 버림
-Math.trunc() | Returns the integer part
+| Methods      | Description              |
+|--------------|--------------------------|
+| Math.round() | 반올림                      |
+| Math.ceil()  | 올림                       |
+| Math.floor() | 버림                       |
+| Math.trunc() | Returns the integer part |
 
 ## Examples
 

@@ -203,12 +203,12 @@ PrintWriter printWriter
 - 문자를 쓰기 위함.
 
 ## 👉 차이점
-분류 | PrintWriter | FileWriter
---- | --- | ---
-줄 바꿈 | println() | 줄 바꿈 문자 사용
-문자열 포맷 | printf() | String.format()
-예외 | 일부 생성자에서만, 메소드는 X | IOException
-autoFlush | O | X
+| 분류        | PrintWriter       | FileWriter      |
+|-----------|-------------------|-----------------|
+| 줄 바꿈      | println()         | 줄 바꿈 문자 사용      |
+| 문자열 포맷    | printf()          | String.format() |
+| 예외        | 일부 생성자에서만, 메소드는 X | IOException     |
+| autoFlush | O                 | X               |
 
 ---
 

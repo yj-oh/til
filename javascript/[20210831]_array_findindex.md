@@ -26,11 +26,11 @@ findIndex(function callbackFn(element, index, array) { ... }, thisArg)
 ### callbackFn
 - 조건을 만족하는 요소를 찾을 때까지 배열의 각 값에 대해 실행할 함수
 
-argument | description | optional
---- | --- | ---
-`element` | 처리 중인 요소 | 
-`index` | 처리 중인 요소의 index | O
-`array` | - | O
+| argument  | description     | optional |
+|-----------|-----------------|----------|
+| `element` | 처리 중인 요소        |          |
+| `index`   | 처리 중인 요소의 index | O        |
+| `array`   | -               | O        |
 
 ### thisArg
 - Optional

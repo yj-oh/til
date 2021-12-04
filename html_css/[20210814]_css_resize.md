@@ -21,14 +21,14 @@ div {
 ![](.%5B20210814%5D_css_resize_images/26d49780.png)
 
 ## Property Values
-Value | Description
---- | ---
-none | default. 크기 조절 불가
-both | width & height 모두 조절
-horizontal | width 조절
-vertical | height 조절
-initial | 기본값으로 설정
-inherit | 부모 속성을 상속
+| Value      | Description          |
+|------------|----------------------|
+| none       | default. 크기 조절 불가    |
+| both       | width & height 모두 조절 |
+| horizontal | width 조절             |
+| vertical   | height 조절            |
+| initial    | 기본값으로 설정             |
+| inherit    | 부모 속성을 상속            |
 
 ##### * References
 - https://developer.mozilla.org/en-US/docs/Web/CSS/resize

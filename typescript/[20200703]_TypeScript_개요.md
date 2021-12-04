@@ -4,15 +4,15 @@
 
 ## JavaScript vs TypeScript
 
-분류 | JavaScript | TypeScript
---- | --- | ---
-언어 특성 | scripting language | Object oriented programming language
-모듈 | X | O
-인터페이스 | X | O
-static typing | X | O
-optional parameters | X | O
-파일 확장자 | .js | .ts
- 
+| 분류                  | JavaScript         | TypeScript                           |
+|---------------------|--------------------|--------------------------------------|
+| 언어 특성               | scripting language | Object oriented programming language |
+| 모듈                  | X                  | O                                    |
+| 인터페이스               | X                  | O                                    |
+| static typing       | X                  | O                                    |
+| optional parameters | X                  | O                                    |
+| 파일 확장자              | .js                | .ts                                  |
+
 ## 장점
 - JS는 interpreted language로 런타임에만 오류 포착, TypeScript는 개발하는 동안 컴파일 단계에서 오류 포착
 - IDE를 포함한 다양한 도구 지원

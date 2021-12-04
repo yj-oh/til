@@ -27,28 +27,28 @@
 - 화살표 함수 괄호
 - 괄호를 생략하는 것이 얼핏 심플해보일 수 있지만 추가, 수정이 더 어려워질 수도 있음을 알고 있을 것.
 
-option | description | example
---- | --- | ---
-always | 항상 괄호 포함 | (x) => x
-avoid | 가능하면 괄호 생략 | x => x
+| option | description | example  |
+|--------|-------------|----------|
+| always | 항상 괄호 포함    | (x) => x |
+| avoid  | 가능하면 괄호 생략  | x => x   |
 
 ### bracketSpacing
 - 대괄호 사이의 공백
 
-option | description | example
---- | --- | ---
-true | 공백 O | { foo: bar }
-false | 공백 X | {foo: bar}
+| option | description | example      |
+|--------|-------------|--------------|
+| true   | 공백 O        | { foo: bar } |
+| false  | 공백 X        | {foo: bar}   |
 
 ### htmlWhitespaceSensitivity
 - html 공백 민감도
 - 인라인 요소에서 공백은 중요하므로 공백 구분 형식을 지정토록 한다.
 
-option | description | example
---- | --- | ---
-css | CSS `display` 속성의 값을 따름 | 
-strict | sensitive. | {foo: bar}
-ignore | insensitive. | {foo: bar}
+| option | description             | example    |
+|--------|-------------------------|------------|
+| css    | CSS `display` 속성의 값을 따름 |            |
+| strict | sensitive.              | {foo: bar} |
+| ignore | insensitive.            | {foo: bar} |
 
 ### insertPragma
 - 파일이 prettier로 포맷되었음을 알리는 @format marker를 파일 상단에 삽입
@@ -86,20 +86,20 @@ ignore | insensitive. | {foo: bar}
 ### proseWrap
 - 마크다운의 줄 바꿈
 
-option | description | example
---- | --- | ---
-always | 항상 wrapping | 
-never | wrapping 하지 않음 | 
-preserve | 그대로 둔다 | 
+| option   | description    | example |
+|----------|----------------|---------|
+| always   | 항상 wrapping    |         |
+| never    | wrapping 하지 않음 |         |
+| preserve | 그대로 둔다         |         |
 
 ### quoteProps
 - 객체 속성의 따옴표 방식 <as-needed | consistent | preserve>
 
-option | description | example
---- | --- | ---
-as-needed | 필요할 때만 추가 | 
-consistent | 일관되게 적용 | 
-preserve | 입력된 대로 둔다 | 
+| option     | description | example |
+|------------|-------------|---------|
+| as-needed  | 필요할 때만 추가   |         |
+| consistent | 일관되게 적용     |         |
+| preserve   | 입력된 대로 둔다   |         |
 
 ### semi
 - 세미콜론 사용 여부
@@ -121,8 +121,8 @@ preserve | 입력된 대로 둔다 |
 ### trailingComma
 - 여러 줄일 때 후행 콤마
 
-option | description | example
---- | --- | ---
-es5 | ES5 (객체, 배열 등) | 
-none | 후행 콤마 없음 | 
-all | 함수 인수 포함, 가능한 경우 후행 콤마 입력 | 
+| option | description               | example |
+|--------|---------------------------|---------|
+| es5    | ES5 (객체, 배열 등)            |         |
+| none   | 후행 콤마 없음                  |         |
+| all    | 함수 인수 포함, 가능한 경우 후행 콤마 입력 |         | 

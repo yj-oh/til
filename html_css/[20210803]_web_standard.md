@@ -20,14 +20,15 @@
 - 구분 규칙의 엄격성 표기
 - 필수 : 선언이 없을 경우 구버전의 브라우저는 비 표준 관용 모드로 페이지를 렌더링
 
-Doctype | Declaration
---- | ---
-html5 | <!DOCTYPE html>
-HTML 4.01 Strict | <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-HTML 4.01 Transitional | <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-XHTML 1.0 Strict | <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-XHTML 1.0 Transitional | <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-XHTML 1.1 | <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+| Doctype                | Declaration                                                                                                               |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| html5                  | <!DOCTYPE html>                                                                                                           |
+| HTML 4.01 Strict       | <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">                                |
+| HTML 4.01 Transitional | <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">                    |
+| XHTML 1.0 Strict       | <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">             |
+| XHTML 1.0 Transitional | <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> |
+| XHTML 1.1              | <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">                         |
+
 - 프로젝트에는 strict 사용할 것
 
 ## 웹 표준 검사

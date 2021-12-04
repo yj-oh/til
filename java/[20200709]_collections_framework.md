@@ -12,10 +12,10 @@ enabling collections to be manipulated independently of implementation details.
 ![https://www.javatpoint.com/collections-in-java](https://static.javatpoint.com/images/java-collection-hierarchy.png)
  
 ## 핵심 인터페이스 정리
- | | 순서 | 중복 | 구현클래스
---- | --- | --- | ---
-List | O | O | ArrayList, LinkedList, Vector 등
-Set | X | X | HashSet, TreeSet 등
-Map |X | key : X, value: O | HashMap, TreeMap, Hashtable, Properties 등
+| /    | 순서  | 중복                | 구현클래스                                     |
+|------|-----|-------------------|-------------------------------------------|
+| List | O   | O                 | ArrayList, LinkedList, Vector 등           |
+| Set  | X   | X                 | HashSet, TreeSet 등                        |
+| Map  | X   | key : X, value: O | HashMap, TreeMap, Hashtable, Properties 등 |
 
 ##### * Reference : [Java Documentation - Outline of the Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/reference.html)

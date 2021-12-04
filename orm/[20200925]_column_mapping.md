@@ -1,12 +1,12 @@
 # Column mapping
 
-annotation | description
---- | ---
-@Column |
-@Enumerated | enum 타입
-@Temporal | 날짜 타입
-@Lob | BLOB, CLOB 타입
-@Transient | mapping 하지 않음
+| annotation  | description   |
+|-------------|---------------|
+| @Column     |               |
+| @Enumerated | enum 타입       |
+| @Temporal   | 날짜 타입         |
+| @Lob        | BLOB, CLOB 타입 |
+| @Transient  | mapping 하지 않음 |
 
 ## @Column
 ```java

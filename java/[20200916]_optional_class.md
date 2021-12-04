@@ -123,19 +123,19 @@ optBook.ifPresent(System.out::print);
 ```
 
 ## 정리
-Method | 값이 있을 때 | 값이 없을 때
---- | --- | ---
-empty | 빈 Optional 반환
-of | 값을 감싼 Optional 반환 | NullPointerException
-ofNullable | 값을 감싼 Optional 반환 | 빈 Optional 반환
-map | 
-flatMap | 파라미터로 주어진 함수를 적용한 Optional 반환 | 빈 Optional 반환
-get | Optional이 담고 있는 값 반환 | NoSuchElementException
-orElse | 값 반환 | 기본값 반환
-orElseGet | 값 반환 | Supplier에서 제공하는 값 반환
-orElseThrow | 값 반환 | Supplier에서 생성한 예외 발생
-ifPresent | 지정된 Consumer 실행 | 아무 일도 일어나지 않음
-isPresent | true 반환 | false 반환
+| Method      | 값이 있을 때                       | 값이 없을 때                |
+|-------------|-------------------------------|------------------------|
+| empty       | 빈 Optional 반환                 |                        |
+| of          | 값을 감싼 Optional 반환             | NullPointerException   |
+| ofNullable  | 값을 감싼 Optional 반환             | 빈 Optional 반환          |
+| map         |                               |                        |
+| flatMap     | 파라미터로 주어진 함수를 적용한 Optional 반환 | 빈 Optional 반환          |
+| get         | Optional이 담고 있는 값 반환          | NoSuchElementException |
+| orElse      | 값 반환                          | 기본값 반환                 |
+| orElseGet   | 값 반환                          | Supplier에서 제공하는 값 반환   |
+| orElseThrow | 값 반환                          | Supplier에서 생성한 예외 발생   |
+| ifPresent   | 지정된 Consumer 실행               | 아무 일도 일어나지 않음          |
+| isPresent   | true 반환                       | false 반환               |
 
 ##### * References
    - Modern Java in Action - 라울-게이브리얼 우르마 외 / 한빛미디어

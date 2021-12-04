@@ -9,17 +9,17 @@
 ## Default labels
 ![default labels](.%5B20210714%5D_github_labels_images/4461721f.png)
 
-라벨 | 설명 | Close 기준 (이건 내 마음) 
---- | --- | ---
-bug | 버그 수정 | 버그 수정
-documentation | 문서에 대한 개선, 추가 | 문서 업데이트
-duplicate | 중복 | 원본 링크 남김
-enhancement | 새로운 기능 요청 | 구현
-good first issue | 첫 기여자에게 좋은 이슈 | 해결 
-help wanted | 관리자가 이슈 또는 PR에 대해 도움 요청 | 해결
-invalid | 더이상 관련 없음 | 이유 남김
-question | 질문 | 답변, 해결
-wontfix | 대응하지 않을 것 | 이유 남김
+| 라벨               | 설명                      | Close 기준 (이건 내 마음) |
+|------------------|-------------------------|--------------------|
+| bug              | 버그 수정                   | 버그 수정              |
+| documentation    | 문서에 대한 개선, 추가           | 문서 업데이트            |
+| duplicate        | 중복                      | 원본 링크 남김           |
+| enhancement      | 새로운 기능 요청               | 구현                 |
+| good first issue | 첫 기여자에게 좋은 이슈           | 해결                 |
+| help wanted      | 관리자가 이슈 또는 PR에 대해 도움 요청 | 해결                 |
+| invalid          | 더이상 관련 없음               | 이유 남김              |
+| question         | 질문                      | 답변, 해결             |
+| wontfix          | 대응하지 않을 것               | 이유 남김              |
 
 ## Custom labels
 - GitHub 홈페이지에서 하는 건 [참고 링크](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels#about-labels) 에 자세히 설명되어 있다.

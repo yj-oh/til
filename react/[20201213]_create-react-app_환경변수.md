@@ -22,19 +22,19 @@ REACT_APP_VALUE = 'value'
 ```
 
 ### `.env` 외에 사용할 수 있는 파일
-| 사용할 수 있는 파일명 | 설명 |
-| --- | --- |
-`.env` | Default
-`.env.local` | Local overrides. This file is loaded for all environments except test.
-`.env.development`, `.env.test`, `.env.production` | Environment-specific settings.
-`.env.development.local`, `.env.test.local`, `.env.production.local` | Local overrides of environment-specific settings.
+| 사용할 수 있는 파일명                                                         | 설명                                                                     |
+|----------------------------------------------------------------------|------------------------------------------------------------------------|
+| `.env`                                                               | Default                                                                |
+| `.env.local`                                                         | Local overrides. This file is loaded for all environments except test. |
+| `.env.development`, `.env.test`, `.env.production`                   | Environment-specific settings.                                         |
+| `.env.development.local`, `.env.test.local`, `.env.production.local` | Local overrides of environment-specific settings.                      |
 
 ### 각 파일 별 우선 순위
-| 명령어 | 파일 우선 순위 |
-| --- | --- |
-| npm start | `.env.development.local` > `.env.local` > `.env.development` > `.env`
-| npm run build | `.env.production.local` > `.env.local` > `.env.production` > `.env`
-| npm test | `.env.test.local` > `.env.test` > `.env` (note `.env.local` is missing)
+| 명령어           | 파일 우선 순위                                                                |
+|---------------|-------------------------------------------------------------------------|
+| npm start     | `.env.development.local` > `.env.local` > `.env.development` > `.env`   |
+| npm run build | `.env.production.local` > `.env.local` > `.env.production` > `.env`     |
+| npm test      | `.env.test.local` > `.env.test` > `.env` (note `.env.local` is missing) |
 
 ## 사용
 #### JSX

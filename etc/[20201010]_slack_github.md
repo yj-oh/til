@@ -23,23 +23,23 @@
 
 #### Features
 ##### 활성화
-feature | description
---- | ---
-issues | Opened or closed issues
-pulls | New or merged pull requests, as well as draft pull requests marked "Ready for Review"
-statuses | Statuses on pull requests
-commits | New commits on the default branch (usually master)
-deployments | Updated status on deployments
-public | A repository switching from private to public
-releases | Published releases
+| feature     | description                                                                           |
+|-------------|---------------------------------------------------------------------------------------|
+| issues      | Opened or closed issues                                                               |
+| pulls       | New or merged pull requests, as well as draft pull requests marked "Ready for Review" |
+| statuses    | Statuses on pull requests                                                             |
+| commits     | New commits on the default branch (usually master)                                    |
+| deployments | Updated status on deployments                                                         |
+| public      | A repository switching from private to public                                         |
+| releases    | Published releases                                                                    |
 
 ##### 비활성화
-feature | description
---- | ---
-reviews | Pull request reviews
-comments | New comments on issues and pull requests
-branches | Created or deleted branches
-commits:all | All commits pushed to any branch
-+label:"your label" | Filter issues, pull-requests and comments based on their labels.
+| feature             | description                                                      |
+|---------------------|------------------------------------------------------------------|
+| reviews             | Pull request reviews                                             |
+| comments            | New comments on issues and pull requests                         |
+| branches            | Created or deleted branches                                      |
+| commits:all         | All commits pushed to any branch                                 |
+| +label:"your label" | Filter issues, pull-requests and comments based on their labels. |
 
 ##### * 자세한 내용은 : https://github.com/integrations/slack#configuration

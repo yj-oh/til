@@ -9,10 +9,11 @@
 ---
 
 ## Multi-document YAML Ordering
-버전 | 내용
---- | ---
-2.3 이하 | profile activation order 에 따라 문서 추가
-2.4 이상 | 선언된 순서 대로 작동함. 나중에 선언된 애들은 먼저 선언된 애들을 덮어씀.
+| 버전     | 내용                                         |
+|--------|--------------------------------------------|
+| 2.3 이하 | profile activation order 에 따라 문서 추가        |
+| 2.4 이상 | 선언된 순서 대로 작동함. 나중에 선언된 애들은 먼저 선언된 애들을 덮어씀. |
+
 ```yaml
 test: "value"
 ---
@@ -20,16 +21,16 @@ test: "overridden-value"
 ```
 
 ## Profile Specific External Configuration
-버전 | 내용
---- | ---
-2.3 이하 | jar 외부의 application.properties 파일은 jar 내부의 application-<profile>.properties 파일을 덮어쓰지 않음.
-2.4 이상 | 모든 외부 파일이 항상 패키지 파일을 재정의함.
+| 버전     | 내용                                                                                       |
+|--------|------------------------------------------------------------------------------------------|
+| 2.3 이하 | jar 외부의 application.properties 파일은 jar 내부의 application-<profile>.properties 파일을 덮어쓰지 않음. |
+| 2.4 이상 | 모든 외부 파일이 항상 패키지 파일을 재정의함.                                                               |
 
 ## Profile Specific Documents
-버전 | 내용
---- | ---
-2.3 이하 | `spring.profiles`
-2.4 이상 | `spring.config.activate.on-profile` <br/> (`spring.profiles` deprecated)
+| 버전     | 내용                                                                       |
+|--------|--------------------------------------------------------------------------|
+| 2.3 이하 | `spring.profiles`                                                        |
+| 2.4 이상 | `spring.config.activate.on-profile` <br/> (`spring.profiles` deprecated) |
 
 - 2.3 이하
 ```yaml
@@ -69,10 +70,10 @@ spring:
 - 이 제한이 없으면 평가 시점에 따라 다른 결과가 나올 수 있음.
 
 ## Profile Groups
-버전 | 내용
---- | ---
-2.3 이하 | 종종 `spring.profiles` + `spring.profiles.include`로 active profiles 확장.
-2.4 이상 | `Profile Groups`
+| 버전     | 내용                                                                    |
+|--------|-----------------------------------------------------------------------|
+| 2.3 이하 | 종종 `spring.profiles` + `spring.profiles.include`로 active profiles 확장. |
+| 2.4 이상 | `Profile Groups`                                                      |
 
 - 2.3 이하
 ```yaml

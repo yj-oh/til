@@ -4,11 +4,11 @@
 @keyframes animationname {keyframes-selector {css-styles;}}
 ```
 
-Value | Description
---- | ---
-animationname | 애니메이션 이름
-keyframes-selector | `0%` ~ `100%` 또는 `from` ~ `to`
-css-styles | 적용할 스타일 속성
+| Value              | Description                    |
+|--------------------|--------------------------------|
+| animationname      | 애니메이션 이름                       |
+| keyframes-selector | `0%` ~ `100%` 또는 `from` ~ `to` |
+| css-styles         | 적용할 스타일 속성                     |
 
 - 이렇게 정의한 `@keyframes`는 `animation`, 또는 `animation-name`에 그 이름을 넣어 사용
   - 💡 참고 : [CSS Animation]([20210315]_css_animation.md)

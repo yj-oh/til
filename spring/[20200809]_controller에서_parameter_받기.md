@@ -1,10 +1,9 @@
 # Controller에서 parameter받기
-type | description | format
---- | --- | ---
-@PathVariable | URL Path | /{id}/{name}/{team}
-@RequestParam | Query Parameters | ?id={id}&name={name}&team={team}
-@RequestBody | HTTP request body | 
-
+| type          | description       | format                           |
+|---------------|-------------------|----------------------------------|
+| @PathVariable | URL Path          | /{id}/{name}/{team}              |
+| @RequestParam | Query Parameters  | ?id={id}&name={name}&team={team} |
+| @RequestBody  | HTTP request body |                                  |
 
 ## @PathVariable
 ```
@@ -13,11 +12,11 @@ a URI template variable. Supported for RequestMapping annotated handler methods.
 If the method parameter is Map<String, String> then the map is populated 
 with all path variable names and values.
 ```
-Type | Optional Element | Default | Description
---- | --- | --- | ---
-String | name | "" | The name of the path variable to bind to.
-boolean | required | true | Whether the path variable is required.
-String | value | "" | Alias for name()
+| Type    | Optional Element | Default | Description                               |
+|---------|------------------|---------|-------------------------------------------|
+| String  | name             | ""      | The name of the path variable to bind to. |
+| boolean | required         | true    | Whether the path variable is required.    |
+| String  | value            | ""      | Alias for name()                          |
 
 * *Reference : https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/bind/annotation/PathVariable.html*
 
@@ -42,12 +41,12 @@ public ResponseEntity<Classes> getClasses(@PathVariable Long id) {
 Annotation which indicates that a method parameter 
 should be bound to a web request parameter.
 ```
-Type | Optional Element | Default | Description
---- | --- | --- | ---
-String | defaultValue | "" | The default value to use as a fallback when the request parameter is not provided or has an empty value.
-String | name | "" | The name of the request parameter to bind to.
-boolean | required | true | Whether the parameter is required.
-String | value |  | Alias for name()
+| Type    | Optional Element | Default | Description                                                                                              |
+|---------|------------------|---------|----------------------------------------------------------------------------------------------------------|
+| String  | defaultValue     | ""      | The default value to use as a fallback when the request parameter is not provided or has an empty value. |
+| String  | name             | ""      | The name of the request parameter to bind to.                                                            |
+| boolean | required         | true    | Whether the parameter is required.                                                                       |
+| String  | value            |         | Alias for name()                                                                                         |
 
 * *Reference : https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/bind/annotation/RequestParam.html*
 
@@ -75,9 +74,10 @@ resolve the method argument depending on the content type of the request.
 Optionally, automatic validation can be applied by annotating the argument 
 with @Valid.
 ```
-Type | Optional Element | Default | Description
---- | --- | --- | ---
-boolean | required | true | Whether body content is required.
+| Type    | Optional Element | Default | Description                       |
+|---------|------------------|---------|-----------------------------------|
+| boolean | required         | true    | Whether body content is required. |
+
 * *Reference : https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/bind/annotation/RequestBody.html*
 
 ```java
