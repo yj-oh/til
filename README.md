@@ -61,6 +61,7 @@
 * [DB 설계 과정의 개요](database/[20210519]_db_설계_과정의_개요.md)
 * [MySQL 환경변수 추가 (Windows)](database/[20210720]_adding_mysql_to_path_env_variable_in_windows.md)
 * [MySQL root 비밀번호 리셋 (Windows)](database/[20210721]_reset_mysql_root_password.md)
+* [MySQL 실행계획](database/_20211213_mysql_explain.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
