@@ -182,6 +182,7 @@
 * [WebStorm import 시 작은 따옴표를 기본으로 설정](ide/[20210812]_webstorm_default_single_quotes_in_auto_import.md)
 * [IntelliJ 실행 시 마지막 종료한 프로젝트 reopen 설정](ide/[20210813]_intellij_reopen_last_project.md)
 * [이전 수정한 지점, 다음 수정한 지점으로 이동](ide/[20210816]_jetbrains_last_edit_location.md)
+* [IntelliJ 를 DataGrip 처럼 사용하기](ide/_20211219_using_intellij_like_a_datagrip.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
