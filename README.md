@@ -7,12 +7,12 @@
 >- 상황에 맞게, 수준에 맞게, 가볍게라도 형체화 하는 것에 의의를 둡니다.
 
 ### Categories
-- [Algorithm & Data Structure](#Algorithm-&-Data-Structure)
+- [Algorithm & Data Structure](#algorithm--data-structure)
 - [Database](#Database)
 - [Deno](#Deno)
 - [Design](#Design)
-- [Git & GitHub](#Git-&-GitHub)
-- [HTML/CSS](#HTML/CSS)
+- [Git & GitHub](#git--github)
+- [HTML/CSS](#htmlcss)
 - [IDE](#IDE)
 - [Java](#java)
 - [JavaScript](#JavaScript)
