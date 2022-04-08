@@ -16,6 +16,7 @@
 - [IDE](#IDE)
 - [Java](#java)
 - [JavaScript](#JavaScript)
+- [Jira](#Jira)
 - [Node.js](#Node.js)
 - [ORM](#ORM)
 - [Python](#Python)
@@ -296,6 +297,11 @@
 * [Array copyWithin() method - 배열 안에서 요소를 교체](javascript/[20210828]_array_copywithin.md)
 * [Array fill() method - 배열 채우기](javascript/[20210829]_array_fill.md)
 * [Array findIndex() method - 조건을 만족하는 요소의 인덱스 반환](javascript/[20210831]_array_findindex.md)
+
+[ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
+
+### Jira
+* [개념 정리하기 & 기본 세팅 체크리스트](jira/_20220406_start.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
