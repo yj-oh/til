@@ -63,6 +63,7 @@
 * [MySQL 환경변수 추가 (Windows)](database/[20210720]_adding_mysql_to_path_env_variable_in_windows.md)
 * [MySQL root 비밀번호 리셋 (Windows)](database/[20210721]_reset_mysql_root_password.md)
 * [MySQL 실행계획](database/_20211213_mysql_explain.md)
+* [MySQL 8.x 유저 비밀번호 변경](database/_20220508_mysql_password.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
