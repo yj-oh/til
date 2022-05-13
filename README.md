@@ -64,6 +64,7 @@
 * [MySQL root 비밀번호 리셋 (Windows)](database/[20210721]_reset_mysql_root_password.md)
 * [MySQL 실행계획](database/_20211213_mysql_explain.md)
 * [MySQL 8.x 유저 비밀번호 변경](database/_20220508_mysql_password.md)
+* [MySQL charset 확인](database/_20220514_mysql_charset.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 

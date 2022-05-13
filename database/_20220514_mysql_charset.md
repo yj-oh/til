@@ -1,0 +1,51 @@
+# MySQL charset 확인
+
+## 서버 설정 확인
+```mysql
+SHOW GLOBAL VARIABLES
+    WHERE Variable_name LIKE 'character\_set\_%'
+        OR Variable_name LIKE 'collation%';
+```
+
+## 데이터베이스 설정 확인
+```mysql
+SELECT DEFAULT_CHARACTER_SET_NAME, DEFAULT_COLLATION_NAME
+FROM INFORMATION_SCHEMA.SCHEMATA
+WHERE SCHEMA_NAME = '';
+```
+
+## 데이터베이스 설정 변경
+```mysql
+ALTER DATABASE {db_name} 
+    CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci;
+```
+
+## 테이블 설정 확인
+```mysql
+SELECT T.TABLE_NAME, CCSA.CHARACTER_SET_NAME
+FROM INFORMATION_SCHEMA.`TABLES` T,
+     INFORMATION_SCHEMA.`COLLATION_CHARACTER_SET_APPLICABILITY` CCSA
+WHERE CCSA.COLLATION_NAME = T.TABLE_COLLATION
+  AND T.TABLE_SCHEMA = ''
+  AND T.TABLE_NAME = ''
+```
+
+## 테이블 설정 변경
+```mysql
+ALTER TABLE {table_name} CONVERT TO CHARACTER SET UTF8;
+```
+
+## 컬럼 설정 확인
+```mysql
+SELECT TABLE_NAME, COLUMN_NAME, CHARACTER_SET_NAME, COLLATION_NAME
+FROM INFORMATION_SCHEMA.`COLUMNS`
+WHERE TABLE_SCHEMA = ''
+  AND TABLE_NAME = '' 
+  AND COLUMN_NAME = ''
+```
+
+## 컬럼 설정 변경
+```mysql
+ALTER TABLE {table_name} 
+    MODIFY {column_name} CHAR(10) CHARACTER SET utf8mb4, COLLATE = utf8mb4_unicode_ci;
+```
