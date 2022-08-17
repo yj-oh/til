@@ -65,6 +65,7 @@
 * [MySQL 실행계획](database/_20211213_mysql_explain.md)
 * [MySQL 8.x 유저 비밀번호 변경](database/_20220508_mysql_password.md)
 * [MySQL charset 확인](database/_20220514_mysql_charset.md)
+* [MySQL 전체 데이터 수 확인](database/_20220817_mysql_count_table_rows.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
