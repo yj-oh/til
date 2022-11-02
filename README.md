@@ -137,6 +137,7 @@
 * [GitHub Actions 이용하여 GitHub Pages 배포 자동화하기](git/[20211115]_deploy_app_on_github_pages_with_github_actions.md)
 * [Git 1:1 맞춤 과외 해보기 (with. 쏘)](git/_20220113_git_study_with_sso.md)
 * [git rebase --onto : 다른 토픽 브랜치에서 갈라져 나온 토픽 브랜치를 rebase 하기](git/_20220818_git_rebase_onto.md)
+* [로컬 기본 브랜치 이름 설정하기](git/_20221102_configure_the_default_branch_name.md)
 
 [ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔝️ TO TOP](#Categories)
 
